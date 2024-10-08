@@ -30,10 +30,15 @@ The printer that was built for this guide was made using [Timberfill](https://fi
 >[!NOTE]
 >If you are using a Revo nozzle and not the Bamboo nozzle that comes with the Fabreeko kit, then the gantry(?) parts will be slightly different. 
 ## Kit Parts
+This is what the box will look like when you receive it.  
 
-(Insert Image of Boxed Kit here)
+![BabybeltProV2Box](https://github.com/user-attachments/assets/db425790-5faf-40ce-aba2-c7495f1c9352)  
 
-(Insert Image of Opened (and annotated) Kit here)
+This is all of the parts that will be inside the box, spread out for visibility.  
+
+![Kit Components](https://github.com/user-attachments/assets/cbf075dc-6b63-42a7-9919-33687f34e00b)
+
+Here is a list of all the kit parts. 
 
 | Part Name | Image |
 |-----------|-------|
