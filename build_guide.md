@@ -164,6 +164,7 @@ On one of the rollers, one end will also have the rollerZGear on the screw, befo
 <img src="https://github.com/user-attachments/assets/a0f8708d-9e75-4c7e-93d0-6078a2efaa76" width="600"/>
 <img src="https://github.com/user-attachments/assets/050e85e9-5f11-4d8c-854d-8ba158d446f3" width="600"/>
 <img src="https://github.com/user-attachments/assets/0c7a9985-c82d-4b31-ace3-f78fa4ebd704" width="600"/>
+![Belt1](https://github.com/user-attachments/assets/2bb28c96-0a7e-42c5-a27f-0e4e4b368a42)
 
 ### Y Stop
 The idler holder should be inserted into the idler body with the larger hole (to accomodate for the screw head) on the same side as the circular indentation on the body. Make sure your orientation matches the following pictures. 
@@ -225,8 +226,6 @@ Use a zip tie to secure the wires to the side of the component.
 <img src="https://github.com/user-attachments/assets/70b28acb-eb0b-44fb-b51b-6c837fdbb7d0" width="600"/>
 <img src="https://github.com/user-attachments/assets/f6b1fe6c-5bd6-4c34-ac04-bad08b512f06" width="600"/>
 
-
-
 ### X Gantry
 Start off building the X Gantry by lining up the idlers with the indicated holes and securing in place with 2 M3x20 Hex Screws.
 <img src="(https://github.com/user-attachments/assets/e96993ae-0902-4b96-b806-d7710f0146ad" width="600"/>
@@ -240,3 +239,63 @@ Your gantry should now look like this. The yellow boxes indicated where the gant
 Here's what it should look like with the rails attached. 
 
 <img src="https://github.com/user-attachments/assets/c467dfec-9481-4607-829e-a9c057e60abd" width="600"/>
+
+### Combining Axes
+<img src="https://github.com/user-attachments/assets/473fdab5-2522-43b9-8af5-a2f951ea1a42" width="600"/>
+<img src="https://github.com/user-attachments/assets/21deac05-1ee3-4488-a921-4ea1e36e1021" width="600"/>
+<img src="https://github.com/user-attachments/assets/2a9f8729-0ef7-4b5c-a443-c390910b8b3d" width="600"/>
+<img src="https://github.com/user-attachments/assets/acf06334-0604-49fc-b51e-eb4bf63ff3b6" width="600"/>
+
+### Belts
+<img src="https://github.com/user-attachments/assets/ca81bfab-3e5d-486d-b96a-9b9ca5ce695f" width="600"/>
+<img src="https://github.com/user-attachments/assets/3ed59ce1-2239-4a49-995e-2eba90a14c45" width="600"/>
+<img src="https://github.com/user-attachments/assets/9fc91996-f9ca-4c6b-aebe-649cc2ac882f" width="600"/>
+<img src="https://github.com/user-attachments/assets/a9f114db-ef93-481a-ab55-80ec33c303de" width="600"/>
+<img src="https://github.com/user-attachments/assets/6c5f6aa5-57dd-4189-9924-8caff77a258f" width="600"/>
+<img src="https://github.com/user-attachments/assets/579fe1b6-f6c7-4411-b6df-45b265518b7c" width="600"/>
+<img src="https://github.com/user-attachments/assets/071f58c6-990e-44a0-ba01-6ac72f8bc03d" width="600"/>
+<img src="https://github.com/user-attachments/assets/e293f010-29ba-4cc2-8273-37c5731d21a3" width="600"/>
+<img src="https://github.com/user-attachments/assets/1c019f88-1626-4185-8181-21d49aef42df" width="600"/>
+<img src="https://github.com/user-attachments/assets/e0f9cdb4-9569-489d-b069-4c3259ad0b1a" width="600"/>
+<img src="https://github.com/user-attachments/assets/091e5ef2-aa74-447c-a5ac-95f2abefe222" width="600"/>
+<img src="https://github.com/user-attachments/assets/a53127ae-119e-4037-a419-d7ed17b72d23" width="600"/>
+<img src="https://github.com/user-attachments/assets/28f8cf35-d81d-4924-b71d-981dca9f7f46" width="600"/>
+<img src="https://github.com/user-attachments/assets/184d2fd3-e540-48bd-bcb0-10c5ce702727" width="600"/>
+<img src="https://github.com/user-attachments/assets/5b1eb4da-ea42-4e53-a3b7-333254c69d3e" width="600"/>
+<img src="https://github.com/user-attachments/assets/7cc1e6fb-92ca-4021-b8f4-b606b99887a3" width="600"/>
+<img src="https://github.com/user-attachments/assets/ce775bd0-d561-49ab-b603-137e55a0fcb3" width="600"/>
+<img src="https://github.com/user-attachments/assets/63aba89c-2ab2-4f6c-a508-0aefb2899cd1" width="600"/>
+<img src="https://github.com/user-attachments/assets/13d701c5-794c-4dfb-89f7-04db7c4cf841" width="600"/>
+<img src="https://github.com/user-attachments/assets/386532a5-c28e-4e81-bea2-51252f9848a4" width="600"/>
+<img src="https://github.com/user-attachments/assets/7c3b5091-44cc-45f8-96d3-13e6a8b740d3" width="600"/>
+<img src="https://github.com/user-attachments/assets/1e283ef4-9fca-458f-991e-3b69365d3373" width="600"/>
+<img src="https://github.com/user-attachments/assets/312b9b94-9800-4923-bcd8-a810b26cd3ca" width="600"/>
+<img src="https://github.com/user-attachments/assets/a6945aa1-3e4d-4695-9ad6-9b68a0750fe7" width="600"/>
+<img src="https://github.com/user-attachments/assets/4dfd4188-40bb-49b2-b5ca-bff99d1595fa" width="600"/>
+<img src="https://github.com/user-attachments/assets/12b3c39f-a960-44a5-bc6e-b6b34ff3f06d" width="600"/>
+
+### Hotbed
+<img src="https://github.com/user-attachments/assets/68541709-a9e4-49b4-adad-854df8226e4b" width="600"/>
+<img src="https://github.com/user-attachments/assets/cbd421c4-3ead-4061-8cbd-e0d473481145" width="600"/>
+<img src="https://github.com/user-attachments/assets/591c3b34-babb-4eeb-850f-39108be2516c" width="600"/>
+<img src="https://github.com/user-attachments/assets/8c6ccaba-0652-40a8-a365-d0bc667e1c3d" width="600"/>
+
+### Wiring
+<img src="https://github.com/user-attachments/assets/12361468-ed2c-4448-af0b-ff4cae994208" width="600"/>
+<img src="https://github.com/user-attachments/assets/44517b25-4dcd-4e2f-b78d-2425e41cd173" width="600"/>
+<img src="https://github.com/user-attachments/assets/f4a9378d-9950-4a98-b425-d7efa181de42" width="600"/>
+<img src="https://github.com/user-attachments/assets/c79c685b-ba0e-41de-9fa1-ce668fbb7494" width="600"/>
+<img src="https://github.com/user-attachments/assets/8eefe581-1154-454e-9599-c97d1fa577c8" width="600"/>
+<img src="https://github.com/user-attachments/assets/5853aa3d-db09-489a-88de-4ab71fc61c9f" width="600"/>
+<img src="https://github.com/user-attachments/assets/d5976f16-fded-4f93-94f4-ca0aa67c6ba7" width="600"/>
+<img src="https://github.com/user-attachments/assets/d822a788-b5ca-4527-b237-6f86a388fbf8" width="600"/>
+<img src="https://github.com/user-attachments/assets/f50b4003-296f-44fe-8f27-cf78830ddc88" width="600"/>
+<img src="https://github.com/user-attachments/assets/2689e484-922c-4ec5-a81e-77556d32ac77" width="600"/>
+
+### Print Belt
+<img src="https://github.com/user-attachments/assets/448e1352-1fc4-4751-bfb9-4a574493e3ce" width="600"/>
+<img src="https://github.com/user-attachments/assets/65515845-0a6a-4b5a-8303-31e7a3c4644e" width="600"/>
+<img src="https://github.com/user-attachments/assets/829bb469-5317-4144-abcf-f764c36e8209" width="600"/>
+
+### Finished Printer
+<img src="https://github.com/user-attachments/assets/de2d04fa-db18-4e3f-96c5-4b7619084896" width="600"/>
