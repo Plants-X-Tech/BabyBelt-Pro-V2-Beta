@@ -306,36 +306,66 @@ Insert (nuts) into the slots indicated on the (component).
 <img src="https://github.com/user-attachments/assets/690f6a91-35cc-4c6f-8a33-c25ede306f81" width="400"/>
 <img src="https://github.com/user-attachments/assets/885f7aad-7a41-429c-9c85-67f06a6d4d6a" width="400"/> <br>
 
+Next we will install the hotend to the (component).
 
+<img src="https://github.com/user-attachments/assets/043df1a4-8de6-4cf5-bd9d-c47bba7ad218" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/043df1a4-8de6-4cf5-bd9d-c47bba7ad218" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/9245b2fb-d5c7-429b-b5fb-7d604090764f" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/125916a8-e388-4fca-99e6-374df99b4a23" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/3171c56b-6be0-4581-9048-599c0b861512" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/566c6d64-adca-411f-997b-366c087e6e37" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/7bcfb781-af8c-40af-a650-4d209846f3e4" width="400"/> <br>
+ Use a (screw) and a (nut) to attach the hotend to the piece through the hole shown at the top of the (component). 
+
+<img src="https://github.com/user-attachments/assets/9245b2fb-d5c7-429b-b5fb-7d604090764f" width="400"/>
+<img src="https://github.com/user-attachments/assets/125916a8-e388-4fca-99e6-374df99b4a23" width="400"/>
+
+Make sure the screw goes through the correct hole on the hotend. 
+
+<img src="https://github.com/user-attachments/assets/566c6d64-adca-411f-997b-366c087e6e37" width="400"/>
+
+Next insert (nuts) into the holes pictured 
+
 <img src="https://github.com/user-attachments/assets/a499a075-7d23-4e6b-a5f2-79df09ab671f" width="400"/> <br>
 <img src="https://github.com/user-attachments/assets/f126673f-1acb-4d0e-b1c3-26727f3c22a0" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/ce38e393-e8d7-470e-b894-dedab590ae9e" width="400"/> <br>
+<img src="https://github.com/user-attachments/assets/ce38e393-e8d7-470e-b894-dedab590ae9e" width="400"/>
+
+Attach the hotend fan assembly to the rail carrier (I found this easier to do one half at a time)
+
 <img src="https://github.com/user-attachments/assets/618327e2-cfea-43cf-97ff-cf14b5508c32" width="400"/> <br>
 <img src="https://github.com/user-attachments/assets/2151d359-61cd-47fa-96fa-2de35886458e" width="400"/> <br>
 <img src="https://github.com/user-attachments/assets/fc9a0cba-6c38-422d-a52a-6fae75be56b3" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/80fb3dcd-6e03-4bc2-b48e-526bcea7e259" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/9e267cb4-9877-40e7-ba8b-b59a1467b9f7" width="400"/> <br>
+<img src="https://github.com/user-attachments/assets/9e267cb4-9877-40e7-ba8b-b59a1467b9f7" width="400"/>
 
 ### Hotend
+Next we will install the electrical components to the hotend. 
+
 <img src="https://github.com/user-attachments/assets/809f991b-b64a-46eb-bc87-5248a2eb747f" width="600"/>
-<img src="https://github.com/user-attachments/assets/ff5475ce-ca49-4b11-a42a-1a9198113b92" width="600"/>
-<img src="https://github.com/user-attachments/assets/25568316-c5b6-4865-913d-e67e055dda5c" width="600"/>
+
+There will be a small hole in the block right above the nozzle of the hotend. This is where the thermistor will be inserted. 
+
+<img src="https://github.com/user-attachments/assets/ff5475ce-ca49-4b11-a42a-1a9198113b92" width="400"/>
+
+The thermistor
+
+<img src="https://github.com/user-attachments/assets/25568316-c5b6-4865-913d-e67e055dda5c" width="200"/>
+
+After installing, run the wire through the channel that is built into the hotend. 
+
 <img src="https://github.com/user-attachments/assets/db105d7f-f45e-4ee2-8ff4-ba87989831df" width="600"/>
-<img src="https://github.com/user-attachments/assets/140ef159-10ae-4c11-bd85-7b61ef0a49cb" width="600"/>
+
+Next put the (heater) on the front of the block and run the wires through the same channel as the thermistor. Secure it and the thermistor in place with the metal clip. 
+
 <img src="https://github.com/user-attachments/assets/816ab2e8-2e75-48d0-932d-365b61ea6904" width="600"/>
 
 ### Parts Fan
+Time to install the parts fan to the front of the hotend heatsink. 
+
 <img src="https://github.com/user-attachments/assets/079fcc9f-1a05-4524-a414-5f646b13f125" width="600"/>
-<img src="https://github.com/user-attachments/assets/31a8047c-203f-441c-9252-5e402a07d6f6" width="600"/>
-<img src="https://github.com/user-attachments/assets/70b28acb-eb0b-44fb-b51b-6c837fdbb7d0" width="600"/>
-<img src="https://github.com/user-attachments/assets/f6b1fe6c-5bd6-4c34-ac04-bad08b512f06" width="600"/>
+
+Make sure nuts are inserted into these slots of the current assembly. 
+
+<img src="https://github.com/user-attachments/assets/31a8047c-203f-441c-9252-5e402a07d6f6" width="400"/>
+
+Using 4 (screws) secure the hotend fan through the previously inserted nuts and the holes in the heatsink itself. 
+
+<img src="https://github.com/user-attachments/assets/70b28acb-eb0b-44fb-b51b-6c837fdbb7d0" width="400"/>
+<img src="https://github.com/user-attachments/assets/f6b1fe6c-5bd6-4c34-ac04-bad08b512f06" width="384"/>
 
 ### X Gantry
 Start off building the X Gantry by lining up the idlers with the indicated holes and securing in place with 2 M3x20 Hex Screws.
@@ -352,17 +382,32 @@ Here's what it should look like with the rails attached.
 <img src="https://github.com/user-attachments/assets/c467dfec-9481-4607-829e-a9c057e60abd" width="600"/>
 
 ### Combining Axes
+Now we can combine both the X and Y gantry. 
+
 <img src="https://github.com/user-attachments/assets/473fdab5-2522-43b9-8af5-a2f951ea1a42" width="600"/>
+
+First attach the linear rail of the Y axis to the X gantry as shown below, using 2 (screws) and (nuts). 
+
 <img src="https://github.com/user-attachments/assets/21deac05-1ee3-4488-a921-4ea1e36e1021" width="600"/>
+
+Then attach the (component) on the other side of the Y axis in the same manner. 
+
 <img src="https://github.com/user-attachments/assets/2a9f8729-0ef7-4b5c-a443-c390910b8b3d" width="600"/>
 <img src="https://github.com/user-attachments/assets/acf06334-0604-49fc-b51e-eb4bf63ff3b6" width="600"/>
 
 ### Belts
+Now we will run the belts for the X and Y axes. Start by running the belt through the Y stop, teeth facing toward the idler, and securing the first 3 teeth into the Y gantry. 
+
 <img src="https://github.com/user-attachments/assets/ca81bfab-3e5d-486d-b96a-9b9ca5ce695f" width="600"/>
 <img src="https://github.com/user-attachments/assets/3ed59ce1-2239-4a49-995e-2eba90a14c45" width="600"/>
-<img src="https://github.com/user-attachments/assets/9fc91996-f9ca-4c6b-aebe-649cc2ac882f" width="600"/>
-<img src="https://github.com/user-attachments/assets/a9f114db-ef93-481a-ab55-80ec33c303de" width="600"/>
+<img src="https://github.com/user-attachments/assets/9fc91996-f9ca-4c6b-aebe-649cc2ac882f" width="400"/>
+
+Next we'll be installing the Y motor onto the X gantry. 
+
 <img src="https://github.com/user-attachments/assets/6c5f6aa5-57dd-4189-9924-8caff77a258f" width="600"/>
+
+
+
 <img src="https://github.com/user-attachments/assets/579fe1b6-f6c7-4411-b6df-45b265518b7c" width="600"/>
 <img src="https://github.com/user-attachments/assets/071f58c6-990e-44a0-ba01-6ac72f8bc03d" width="600"/>
 <img src="https://github.com/user-attachments/assets/e293f010-29ba-4cc2-8273-37c5731d21a3" width="600"/>
