@@ -270,7 +270,7 @@ Use a (nut) and (screw) to attach the scrapper like how the screen mount was att
 ### Y Stop
 The idler holder should be inserted into the idler body with the larger hole (to accomodate for the screw head) on the same side as the circular indentation on the body. Make sure your orientation matches the following pictures. 
 
-<img src="https://github.com/user-attachments/assets/15919510-2bae-485b-913d-e8298204de60" width="400"/> <br>
+<img src="https://github.com/user-attachments/assets/15919510-2bae-485b-913d-e8298204de60" width="400"/>
 <img src="https://github.com/user-attachments/assets/7af55c58-0bbf-41a4-b603-e724bc4c4f4e" width="400"/>
 
 >[!CAUTION]
@@ -304,7 +304,7 @@ It should line up with the hotend fan like so, attach with (screws).
 Insert (nuts) into the slots indicated on the (component).
 
 <img src="https://github.com/user-attachments/assets/690f6a91-35cc-4c6f-8a33-c25ede306f81" width="400"/>
-<img src="https://github.com/user-attachments/assets/885f7aad-7a41-429c-9c85-67f06a6d4d6a" width="400"/> <br>
+<img src="https://github.com/user-attachments/assets/885f7aad-7a41-429c-9c85-67f06a6d4d6a" width="400"/> 
 
 Next we will install the hotend to the (component).
 
@@ -321,15 +321,15 @@ Make sure the screw goes through the correct hole on the hotend.
 
 Next insert (nuts) into the holes pictured 
 
-<img src="https://github.com/user-attachments/assets/a499a075-7d23-4e6b-a5f2-79df09ab671f" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/f126673f-1acb-4d0e-b1c3-26727f3c22a0" width="400"/> <br>
+<img src="https://github.com/user-attachments/assets/a499a075-7d23-4e6b-a5f2-79df09ab671f" width="400"/> 
+<img src="https://github.com/user-attachments/assets/f126673f-1acb-4d0e-b1c3-26727f3c22a0" width="400"/> 
 <img src="https://github.com/user-attachments/assets/ce38e393-e8d7-470e-b894-dedab590ae9e" width="400"/>
 
 Attach the hotend fan assembly to the rail carrier (I found this easier to do one half at a time)
 
-<img src="https://github.com/user-attachments/assets/618327e2-cfea-43cf-97ff-cf14b5508c32" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/2151d359-61cd-47fa-96fa-2de35886458e" width="400"/> <br>
-<img src="https://github.com/user-attachments/assets/fc9a0cba-6c38-422d-a52a-6fae75be56b3" width="400"/> <br>
+<img src="https://github.com/user-attachments/assets/618327e2-cfea-43cf-97ff-cf14b5508c32" width="400"/> 
+<img src="https://github.com/user-attachments/assets/2151d359-61cd-47fa-96fa-2de35886458e" width="400"/> 
+<img src="https://github.com/user-attachments/assets/fc9a0cba-6c38-422d-a52a-6fae75be56b3" width="400"/> 
 <img src="https://github.com/user-attachments/assets/9e267cb4-9877-40e7-ba8b-b59a1467b9f7" width="400"/>
 
 ### Hotend
