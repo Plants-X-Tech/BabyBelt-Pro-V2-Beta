@@ -131,7 +131,7 @@ Next we can install the screen.
 
 <img src="https://github.com/user-attachments/assets/7d2010a1-e6ee-433a-97a6-2b42b1cd4d0b" width="500"/>
 
-Use 4 (screw type) to connect the screen to the holder.
+Use 4 M3x10mm to connect the screen to the holder.
 
 <img src="https://github.com/user-attachments/assets/56344ad5-babf-43a7-845c-54267f22ab2f" width="500"/>
 
@@ -153,15 +153,15 @@ Next we will plug the wire in, use the end that is combined by a single piece of
 
 <img src="https://github.com/user-attachments/assets/f32a3417-b41a-479b-ab4b-8d5fe66cb84c" width="300"/>
 
-To attach the screen mount to the rest of the base, first you will need to insert a (nut) into the hole on the bottom of the frame, next to where it slots into the base. 
+To attach the screen mount to the rest of the base, first you will need to insert a M3 Nut into the hole on the bottom of the frame, next to where it slots into the base. 
 
 <img src="https://github.com/user-attachments/assets/597d2b2c-b585-4c7a-b72e-251d67fccc63" width="500"/>
 
-Insert a (screw type) into the hole on the side of the frame and use it to secure the screen mount. 
+Insert a M3x20mm into the hole on the side of the frame and use it to secure the screen mount. 
 
 <img src="https://github.com/user-attachments/assets/a6d614dc-dff0-48c2-993d-31b4e22f030d" width="500"/>
 
-Next use 2 (screw types and nuts) to attach the screen mount with the two holes in the top. 
+Next use 2 M3x10mm screws and 2 M3 Nuts to attach the screen mount with the two holes in the top. 
 
 <img src="https://github.com/user-attachments/assets/f8f4b22a-0f02-4fcc-880c-143a53111aa4" width="500"/>
 
@@ -178,7 +178,7 @@ Line up the motor with the mounting holes in the side of the frame.
 
 <img src="https://github.com/user-attachments/assets/bd6d13f7-7065-4890-9354-b8aff10cd5e3" width="300"/>
 
-Attach the extruder to the outside of the frame and screw in to secure everything. 
+Attach the extruder to the outside of the frame and screw in with 4 M3x10mm screws to secure everything. 
 
 <img src="https://github.com/user-attachments/assets/f627ea61-01b5-446b-9ed1-e5c02fc67d36" width="300"/>
 
@@ -189,7 +189,7 @@ Next we can build and install the belt tensioners.
 
 <img src="https://github.com/user-attachments/assets/c6457005-1cc5-4994-9dfa-080abeef1ef4" width="500"/>
 
-The first step is to fit a (nut) into the (compenent name) and secure with a (screw). 
+The first step is to fit a M8 Nut into the (compenent name) and secure with a M8x70mm Screw. 
 
 <img src="https://github.com/user-attachments/assets/df1fb383-9402-4468-b976-6a9a1a05ac0a" width="300"/>
 <img src="https://github.com/user-attachments/assets/92e64ce2-4803-4124-9279-d7a819573305" width="500"/>
@@ -207,7 +207,7 @@ There will be a spot for the tensioners to fit on either side of the base.
 
 <img src="https://github.com/user-attachments/assets/6782f3f2-decd-4a22-8f90-4d772b28c937" width="500"/>
 
-Use a (screw) to install both of the tensioners with the curved portion facing downward. 
+Use a M3x20mm screw to install both of the tensioners with the curved portion facing downward. 
 
 <img src="https://github.com/user-attachments/assets/d7f2de77-f25e-4956-82bd-a4fd07d89f15" width="500"/>
 <img src="https://github.com/user-attachments/assets/ed9512a5-8de4-4748-b3db-ba6e1fe0bee2" width="500"/>
@@ -233,7 +233,7 @@ Now we will install the Z motor.
 
 <img src="https://github.com/user-attachments/assets/0b40892e-217d-4f52-80b4-7c3ce20613d7" width="500"/>
 
-This motor will be install just like the extruder motor, but without the extruder. 
+This motor will be install just like the extruder motor, but without the extruder. Use 4 M3x10mm screws. 
 
 <img src="https://github.com/user-attachments/assets/3fb7976c-f58f-4e95-9401-5e7e916cd272" width="500"/>
 
@@ -251,12 +251,12 @@ Improperly fitting vs Properly fitting gears
 <img src="https://github.com/user-attachments/assets/4cbc0b8f-7f7b-4984-b562-efb14ed604ee" width="450"/>
 <img src="https://github.com/user-attachments/assets/172ade7e-f9cf-4630-b455-d86e6c6c31c1" width="500"/>
 
-Place a (nut) into the slot on the side of the base right above the motor. Repeat on the other side. 
+Place a M3 Nut into the slot on the side of the base right above the motor. Repeat on the other side. 
 
 <img src="https://github.com/user-attachments/assets/230711e7-efb6-4479-b41e-3a5bc8a730e7" width="400"/>
 <img src="https://github.com/user-attachments/assets/51d66fe4-46e7-4d7e-bfda-5b9f368a5c47" width="500"/>
 
-Use a (nut) and (screw) to attach the scrapper like how the screen mount was attached previously. Use (screws) to attach the scrapper right below the roller, securing into the nuts we previously inserted. 
+Use a M3 Nut and M3x20mm screw to attach the scrapper like how the screen mount was attached previously. Use M3x10mm to attach the scrapper right below the roller, securing into the nuts we previously inserted. 
 
 <img src="https://github.com/user-attachments/assets/a0f8708d-9e75-4c7e-93d0-6078a2efaa76" width="500"/>
 <img src="https://github.com/user-attachments/assets/050e85e9-5f11-4d8c-854d-8ba158d446f3" width="450"/>
@@ -349,7 +349,7 @@ After installing, run the wire through the channel that is built into the hotend
 
 <img src="https://github.com/user-attachments/assets/db105d7f-f45e-4ee2-8ff4-ba87989831df" width="600"/>
 
-Next put the (heater) on the front of the block and run the wires through the same channel as the thermistor. Secure it and the thermistor in place with the metal clip. 
+Next put the heater on the front of the block and run the wires through the same channel as the thermistor. Secure it and the thermistor in place with the metal clip. 
 
 <img src="https://github.com/user-attachments/assets/816ab2e8-2e75-48d0-932d-365b61ea6904" width="600"/>
 
@@ -358,11 +358,11 @@ Time to install the parts fan to the front of the hotend heatsink.
 
 <img src="https://github.com/user-attachments/assets/079fcc9f-1a05-4524-a414-5f646b13f125" width="600"/>
 
-Make sure nuts are inserted into these slots of the current assembly. 
+Make sure M3 nuts are inserted into these slots of the current assembly. 
 
 <img src="https://github.com/user-attachments/assets/31a8047c-203f-441c-9252-5e402a07d6f6" width="400"/>
 
-Using 4 (screws) secure the hotend fan through the previously inserted nuts and the holes in the heatsink itself. 
+Using 2 M3x20mm screws on top and 2 M2.5x12mm screws on bottom to secure the hotend fan.
 
 <img src="https://github.com/user-attachments/assets/70b28acb-eb0b-44fb-b51b-6c837fdbb7d0" width="400"/>
 <img src="https://github.com/user-attachments/assets/f6b1fe6c-5bd6-4c34-ac04-bad08b512f06" width="384"/>
@@ -386,7 +386,7 @@ Now we can combine both the X and Y gantry.
 
 <img src="https://github.com/user-attachments/assets/473fdab5-2522-43b9-8af5-a2f951ea1a42" width="600"/>
 
-First attach the linear rail of the Y axis to the X gantry as shown below, using 2 (screws) and (nuts). 
+First attach the linear rail of the Y axis to the X gantry as shown below, using 4 M2x8mm and 4 M2 Nuts. 
 
 <img src="https://github.com/user-attachments/assets/21deac05-1ee3-4488-a921-4ea1e36e1021" width="600"/>
 
@@ -396,62 +396,136 @@ Then attach the (component) on the other side of the Y axis in the same manner.
 <img src="https://github.com/user-attachments/assets/acf06334-0604-49fc-b51e-eb4bf63ff3b6" width="600"/>
 
 ### Belts
+>[!NOTE]
+>When installing the belts, try to get them as tight as possible when you first install them. This will make it easier to get the right tension later.
+ 
 Now we will run the belts for the X and Y axes. Start by running the belt through the Y stop, teeth facing toward the idler, and securing the first 3 teeth into the Y gantry. 
 
 <img src="https://github.com/user-attachments/assets/ca81bfab-3e5d-486d-b96a-9b9ca5ce695f" width="600"/>
 <img src="https://github.com/user-attachments/assets/3ed59ce1-2239-4a49-995e-2eba90a14c45" width="600"/>
-<img src="https://github.com/user-attachments/assets/9fc91996-f9ca-4c6b-aebe-649cc2ac882f" width="400"/>
+<img src="https://github.com/user-attachments/assets/9fc91996-f9ca-4c6b-aebe-649cc2ac882f" width="280"/>
 
 Next we'll be installing the Y motor onto the X gantry. 
 
 <img src="https://github.com/user-attachments/assets/6c5f6aa5-57dd-4189-9924-8caff77a258f" width="600"/>
 
+Install the pulley onto the axel, making sure one of the set is on the flat face of the axel.
 
+<img src="https://github.com/user-attachments/assets/579fe1b6-f6c7-4411-b6df-45b265518b7c" width="220"/>
+<img src="https://github.com/user-attachments/assets/071f58c6-990e-44a0-ba01-6ac72f8bc03d" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/579fe1b6-f6c7-4411-b6df-45b265518b7c" width="600"/>
-<img src="https://github.com/user-attachments/assets/071f58c6-990e-44a0-ba01-6ac72f8bc03d" width="600"/>
+Next install the motor onto the X gantry in the position that is closest to the hotend. Use 4 M2.5x8mm screws.  
+
 <img src="https://github.com/user-attachments/assets/e293f010-29ba-4cc2-8273-37c5731d21a3" width="600"/>
-<img src="https://github.com/user-attachments/assets/1c019f88-1626-4185-8181-21d49aef42df" width="600"/>
 <img src="https://github.com/user-attachments/assets/e0f9cdb4-9569-489d-b069-4c3259ad0b1a" width="600"/>
+
+Next run the belt through the X gantry and around the pulley. 
+
 <img src="https://github.com/user-attachments/assets/091e5ef2-aa74-447c-a5ac-95f2abefe222" width="600"/>
-<img src="https://github.com/user-attachments/assets/a53127ae-119e-4037-a419-d7ed17b72d23" width="600"/>
-<img src="https://github.com/user-attachments/assets/28f8cf35-d81d-4924-b71d-981dca9f7f46" width="600"/>
+
+Cut the belt so that it fits into the remaining teeth and then secure in place with a zip tie. 
+
+<img src="https://github.com/user-attachments/assets/a53127ae-119e-4037-a419-d7ed17b72d23" width="400"/>
+<img src="https://github.com/user-attachments/assets/28f8cf35-d81d-4924-b71d-981dca9f7f46" width="300"/>
+
+Now we will do the belt for the X axis. Start by running the belt as seen below, going through the lower hole on the right. 
+
 <img src="https://github.com/user-attachments/assets/184d2fd3-e540-48bd-bcb0-10c5ce702727" width="600"/>
-<img src="https://github.com/user-attachments/assets/5b1eb4da-ea42-4e53-a3b7-333254c69d3e" width="600"/>
+
+This next step is tricking and may take several tries to get it just right. Loop the belt around the outside, through the second hole, and then interlock the teeth and pull till it is firmly locked into the first hole. 
+
+<img src="https://github.com/user-attachments/assets/5b1eb4da-ea42-4e53-a3b7-333254c69d3e" width="400"/>
+
+Next, push the belt to make space for the pulley on the X axis motor (prepared identically to the Y axis motor). 
+
 <img src="https://github.com/user-attachments/assets/7cc1e6fb-92ca-4021-b8f4-b606b99887a3" width="600"/>
 <img src="https://github.com/user-attachments/assets/ce775bd0-d561-49ab-b603-137e55a0fcb3" width="600"/>
-<img src="https://github.com/user-attachments/assets/63aba89c-2ab2-4f6c-a508-0aefb2899cd1" width="600"/>
-<img src="https://github.com/user-attachments/assets/13d701c5-794c-4dfb-89f7-04db7c4cf841" width="600"/>
+
+Using a M3x20(?) screw, attach the X belt tensioner on the left side of the assembly. 
+
 <img src="https://github.com/user-attachments/assets/386532a5-c28e-4e81-bea2-51252f9848a4" width="600"/>
-<img src="https://github.com/user-attachments/assets/7c3b5091-44cc-45f8-96d3-13e6a8b740d3" width="600"/>
-<img src="https://github.com/user-attachments/assets/1e283ef4-9fca-458f-991e-3b69365d3373" width="600"/>
-<img src="https://github.com/user-attachments/assets/312b9b94-9800-4923-bcd8-a810b26cd3ca" width="600"/>
-<img src="https://github.com/user-attachments/assets/a6945aa1-3e4d-4695-9ad6-9b68a0750fe7" width="600"/>
-<img src="https://github.com/user-attachments/assets/4dfd4188-40bb-49b2-b5ca-bff99d1595fa" width="600"/>
-<img src="https://github.com/user-attachments/assets/12b3c39f-a960-44a5-bc6e-b6b34ff3f06d" width="600"/>
+
+Run the belt through the bottom slot and then through the top slot like so, securing with a zip tie. 
+
+<img src="https://github.com/user-attachments/assets/7c3b5091-44cc-45f8-96d3-13e6a8b740d3" width="400"/>
+<img src="https://github.com/user-attachments/assets/1e283ef4-9fca-458f-991e-3b69365d3373" width="400"/>
+
+Next insert a M3x10mm screw and M3 Nut to the hole in the top of the tensioner. This can be used to adjust the belt tension as needed. 
+
+<img src="https://github.com/user-attachments/assets/a6945aa1-3e4d-4695-9ad6-9b68a0750fe7" width="400"/>
+<img src="https://github.com/user-attachments/assets/4dfd4188-40bb-49b2-b5ca-bff99d1595fa" width="380"/>
+<img src="https://github.com/user-attachments/assets/12b3c39f-a960-44a5-bc6e-b6b34ff3f06d" width="400"/>
 
 ### Hotbed
+Next up is assemblying the hotbed. 
+
 <img src="https://github.com/user-attachments/assets/68541709-a9e4-49b4-adad-854df8226e4b" width="600"/>
-<img src="https://github.com/user-attachments/assets/cbd421c4-3ead-4061-8cbd-e0d473481145" width="600"/>
-<img src="https://github.com/user-attachments/assets/591c3b34-babb-4eeb-850f-39108be2516c" width="600"/>
-<img src="https://github.com/user-attachments/assets/8c6ccaba-0652-40a8-a365-d0bc667e1c3d" width="600"/>
+
+Stick the heating pad onto the metal component like so.
+>[!CAUTION]
+>Make sure you stick the pad onto the correct side. There should be no indents around the holes for the screw heads. 
+
+<img src="https://github.com/user-attachments/assets/cbd421c4-3ead-4061-8cbd-e0d473481145" width="400"/>
+
+Next use 3 M3x10mm to "attach" the metal bed to the printed holder. Use 3 M3 Nuts on each screw as spacers. 
+
+<img src="https://github.com/user-attachments/assets/591c3b34-babb-4eeb-850f-39108be2516c" width="400"/>
+
+The bed will fit into the base like so.
+
+<img src="https://github.com/user-attachments/assets/8c6ccaba-0652-40a8-a365-d0bc667e1c3d" width="400"/>
 
 ### Wiring
-<img src="https://github.com/user-attachments/assets/12361468-ed2c-4448-af0b-ff4cae994208" width="600"/>
-<img src="https://github.com/user-attachments/assets/44517b25-4dcd-4e2f-b78d-2425e41cd173" width="600"/>
-<img src="https://github.com/user-attachments/assets/f4a9378d-9950-4a98-b425-d7efa181de42" width="600"/>
-<img src="https://github.com/user-attachments/assets/c79c685b-ba0e-41de-9fa1-ce668fbb7494" width="600"/>
-<img src="https://github.com/user-attachments/assets/8eefe581-1154-454e-9599-c97d1fa577c8" width="600"/>
-<img src="https://github.com/user-attachments/assets/5853aa3d-db09-489a-88de-4ab71fc61c9f" width="600"/>
-<img src="https://github.com/user-attachments/assets/d5976f16-fded-4f93-94f4-ca0aa67c6ba7" width="600"/>
-<img src="https://github.com/user-attachments/assets/d822a788-b5ca-4527-b237-6f86a388fbf8" width="600"/>
-<img src="https://github.com/user-attachments/assets/f50b4003-296f-44fe-8f27-cf78830ddc88" width="600"/>
-<img src="https://github.com/user-attachments/assets/2689e484-922c-4ec5-a81e-77556d32ac77" width="600"/>
+Finally it's time to wire all the components to the board. 
+>[!NOTE]
+>This hole located on the right of the screen holder is where all wires from the outside of the base should be routed through. This includes the X and Y motors, both fans, the thermistor, and heater. <br>
+><img src="https://github.com/user-attachments/assets/12361468-ed2c-4448-af0b-ff4cae994208" width="400"/>
+
+>[!TIP]
+>Wire management can be difficult and can take some practice to get good at. The most important thing is making sure the wires are easily identifiable and are not in the way of any moving components. 
+
+We can start with plugging in the motors. There will be 5 (slots) on the side of the board closest to the screen. 
+
+<img src="https://github.com/user-attachments/assets/44517b25-4dcd-4e2f-b78d-2425e41cd173" width="400"/>
+
+From left to right we have the X motor, Y motor, Z motor, and Extruder. At this time you should also install the 3 red jumpers pictured in the bottom right. 
+
+<img src="https://github.com/user-attachments/assets/8eefe581-1154-454e-9599-c97d1fa577c8" width="400"/>
+
+Next both the fans can be plugged in. The hotend fan is shown with blue and green wires, while the parts fan is shown with red and black. 
+
+<img src="https://github.com/user-attachments/assets/5853aa3d-db09-489a-88de-4ab71fc61c9f" width="400"/>
+
+The hotend wires can be screwed into the (thing) located right next to them. The orientation of these 2 wires is not important. 
+
+<img src="https://github.com/user-attachments/assets/d5976f16-fded-4f93-94f4-ca0aa67c6ba7" width="400"/>
+
+Both thermistors can be plugged in on the opposite side of the board. The hotend thermistor is shown with blue and green wires, while the bed thermistor has red and black. 
+
+<img src="https://github.com/user-attachments/assets/d822a788-b5ca-4527-b237-6f86a388fbf8" width="400"/>
+
+The bed wires can be installed in the (thing) right next to where we installed the hotend. Similary, orientation doesn't matter. 
+
+<img src="https://github.com/user-attachments/assets/f50b4003-296f-44fe-8f27-cf78830ddc88" width="400"/>
+
+The screen can be plugged into the freestanding pins located above the jumpers. 
+
+<img src="https://github.com/user-attachments/assets/2689e484-922c-4ec5-a81e-77556d32ac77" width="400"/>
 
 ### Print Belt
+Now that all the insides are done we can do final assembly on the belt. This is straightfoward, but can be tricky to make everything fit right.
+
 <img src="https://github.com/user-attachments/assets/448e1352-1fc4-4751-bfb9-4a574493e3ce" width="600"/>
+
+Place the hotbed inside the belt, with the plastic prongs facing upwards, slotted into the base. 
+
 <img src="https://github.com/user-attachments/assets/65515845-0a6a-4b5a-8303-31e7a3c4644e" width="600"/>
+
+Slide the other roller into the belt, maneuver it into the curved slots in the base, and then use the belt tensioners to adjust. 
+
 <img src="https://github.com/user-attachments/assets/829bb469-5317-4144-abcf-f764c36e8209" width="600"/>
 
 ### Finished Printer
+Just attach the bowden tube from the extruder to the hotend and you have your finished printer!
+
 <img src="https://github.com/user-attachments/assets/de2d04fa-db18-4e3f-96c5-4b7619084896" width="600"/>
