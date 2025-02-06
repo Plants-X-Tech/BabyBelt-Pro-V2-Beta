@@ -31,9 +31,9 @@ How to read this guide:
 ### Printing Parts
 Most of the parts of this kit can be printed out of normal PLA, allowing for a wide range of colors and stylistic choices! The parts that shouldn't be printed out of PLA are listed below. 
 
-- [*Nema17_ZGear*](
-- *Roller_ZGear*
-- *UnderbedOrBed*
+- [*Nema17_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Nema17_ZGear.stl)
+- [*Roller_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl)
+- [*UnderbedOrBed*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_UnderbedOrBed.stl)
 
 The design inspiration for the printer built for this guide was to make a printer out of "wood", "stone", and "glass" which is why we selected [Timberfill](https://fillamentum.com/collections/timberfill-filament/) as the primary filament, [Marble PLA](https://us.polymaker.com/products/panchroma-marble?variant=43612877946937) for the accent color, and [Fiberon PA6-GF](https://us.polymaker.com/products/fiberon-pa6-gf25) for the heat tolerant components. 
 
@@ -42,7 +42,7 @@ The design inspiration for the printer built for this guide was to make a printe
 Link to the STL files for the printer
 
 >[!NOTE]
->If you are using a Revo nozzle and not the Bamboo nozzle that comes with the Fabreeko kit, then the gantry-carriage parts will be slightly different. 
+>If you are using a Revo-style Hot End and not the Bamboo nozzle that comes with the Fabreeko kit, then the gantry-carriage parts will be slightly different and can be found in the "Mods" folder. 
 ## Kit Parts
 This is what the box will look like when you receive it.  
 
@@ -50,22 +50,24 @@ This is what the box will look like when you receive it.
 
 This is all of the parts that will be inside the box, spread out for visibility.  
 
-(image here)
+![Baby Belt Kit Parts](https://github.com/user-attachments/assets/4962c9a2-cb96-40d1-8257-9bf0a76a4f9a)
+
 
 ### Part List
 
 - Written
 - Here
-- Get from Fabreeko
+- Get from Rob Github
 
 ## Physical Build
 >[!NOTE]
 >There are several times during this build when a component will be secured with multiple screws. It is generally recommended to NOT fully tighten a screw before the rest have been started, to make sure parts line up correctly and don't crack. 
 ### Base
-The build is going to start with constructing the base. First, place an **M3 Nut** into the hole indicated by the arrow. 
+Start by constructing the base. 
+- Place an **M3 Nut** into the hole indicated by the arrow in [*Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Side-B.stl)
 <img src="https://github.com/user-attachments/assets/f66063c8-3008-409c-8f27-009faf8ccdbe" width="600"/>
 
-Then join the two sides together and place a **M3x20 screw** into the indicated hole and tighten. 
+- Join the two sides together and place one **M3x20 screw** into the indicated hole in [*Side-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Side-A.stl) and tighten. 
 <img src="https://github.com/user-attachments/assets/60e73aca-53a8-43ac-a976-e8c8e7b76029" width="600"/>
 
 The base should now look like this.
@@ -73,45 +75,47 @@ The base should now look like this.
 <img src="https://github.com/user-attachments/assets/678ede30-ba2e-42d9-becf-548105bb3d0a" width="600"/>
 
 ### Power Switch and Jack
-Now it's time to install the **power jack** and **switch**. 
+Next install the **power jack** and **switch**. 
 
 <img src="https://github.com/user-attachments/assets/eab798bf-1eee-4daf-8fb8-a4f408d694df" width="400"/>
 
-There will be two circular holes right next to each other on the side of the printer. The black rubber cover for the power jack is optional. The power jack will need to be secured with a nut (supplied with jack), while the power switch will simply lock into place once pushed in.  (check which part letter)
-
+- There are two circular holes next to each other on [*Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Side-B.stl) of the printer. 
+- The black rubber cover for the power jack is optional
+- Secure the power jack with the supplied nut
+- The power switch will locks into place once pushed in
+  
 <img src="https://github.com/user-attachments/assets/3d6d6a31-7caf-4dcb-abdb-f1ed99514283" width="400"/>
 
 Here is what it should look like from the other side. 
 
 <img src="https://github.com/user-attachments/assets/77bac97a-cb90-4558-a4f0-0e4bb4c02942" width="400"/>
 
-Wire the two components as such. Wrap in electrical tape if desired. 
+- Wire the two components as such
+- Wrap in electrical tape or use heat-shrink tubing (not supplied) to insulate the connections and avoid accidental shorting
+- We opted to solder the wires to the connectors for this build
 
 <img src="https://github.com/user-attachments/assets/4c4e5fe0-e58a-4b74-9332-37aeebc78053" width="400"/>
 
 ### Board
-Install the board by the power switch using 3 **M3x10mm**
+- Install the SKR board by the power switch using 3, **M3x10mm**
 
 <img src="https://github.com/user-attachments/assets/b7ecfd8f-f5dd-46bf-8269-dbd4b9b66b3b" width="500"/>
 
-Make sure the USB-C and MicroSD ports both line up with the holes for them in the side panel. 
+- Make sure the Micro-USB and MicroSD ports line up with the holes for them in the side panel
 
 <img src="https://github.com/user-attachments/assets/7149403c-ffb8-4952-a30e-437616d1a554" width="400"/>
 
-Connect the wires from the power switch & jack to the power (whatever that connector is called) on the board (look to the lower right on the first picture, the once facing differently from the rest. 
-
+- Connect the wires from the power switch & power jack to the SKR board as shown below
 <img src="https://github.com/user-attachments/assets/341a8c70-fc60-44ff-981f-8a9f0b21cab1" width="400"/>
-
-Here is what it should look like. 
 
 <img src="https://github.com/user-attachments/assets/a796f87f-1ac0-43b1-a7ee-fe7631c2516e" width="400"/>
 
 ### Screen
-Next we can install the screen.
+Next we will install the screen.
 
 <img src="https://github.com/user-attachments/assets/7d2010a1-e6ee-433a-97a6-2b42b1cd4d0b" width="500"/>
 
-Use 4 **M3x10mm** to connect the screen to the holder.
+- Use 4, **M3x10mm** to connect the screen to the [*Screenmount*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
 <img src="https://github.com/user-attachments/assets/56344ad5-babf-43a7-845c-54267f22ab2f" width="500"/>
 
@@ -119,33 +123,31 @@ Here is what it should look like.
 
 <img src="https://github.com/user-attachments/assets/2c9b1930-8b4a-4e23-8fb0-0d9b97458b7b" width="500"/>
 
-Now that the screen itself it mounted we can attach the knob and single wire needed for it. 
+- Attach the knob by pushing it onto the silver dial beneath the screen
 
 <img src="https://github.com/user-attachments/assets/af6e648e-cb76-47d7-8f44-9cd0f53df8f0" width="500"/>
 
-The knob can simply be pushed onto the front of the screen. 
-
 <img src="https://github.com/user-attachments/assets/fdc654fa-ed42-4689-9ce5-1be9e89d27ea" width="500"/>
 
-Next we will plug the wire in, use the end that is combined by a single piece of plastic and plug it into the RS232 port. 
+- Plug the wire into the port labeled RS232 on the back of the screen using the black plastic connector that combines all the wires into one
 
 <img src="https://github.com/user-attachments/assets/f9ca34d8-1787-478c-8bad-1660cb3cc499" width="300"/>
 
 <img src="https://github.com/user-attachments/assets/f32a3417-b41a-479b-ab4b-8d5fe66cb84c" width="300"/>
 
-To attach the screen mount to the rest of the base, first you will need to insert a **M3 Nut** into the hole on the bottom of the frame, next to where it slots into the base. 
+- Attach the [*screen mount*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl) to the frame by inserting one **M3 Nut** into the hole on the bottom of the frame, next to where it slots into the base 
 
 <img src="https://github.com/user-attachments/assets/597d2b2c-b585-4c7a-b72e-251d67fccc63" width="500"/>
 
-Insert a **M3x20mm** into the hole on the side of the frame and use it to secure the screen mount. 
+- Insert one **M3x20mm** into the hole on the side of the frame and use it to secure the [*screen mount*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
 <img src="https://github.com/user-attachments/assets/a6d614dc-dff0-48c2-993d-31b4e22f030d" width="500"/>
 
-Next use 2 **M3x10mm screws** and 2 **M3 Nuts** to attach the screen mount with the two holes in the top. 
+Next use 2, **M3x10mm screws** and 2, **M3 Nuts** to attach the screen mount with the two holes in the top. 
 
 <img src="https://github.com/user-attachments/assets/f8f4b22a-0f02-4fcc-880c-143a53111aa4" width="500"/>
 
-It should look like this when done. 
+Tada! You have installed the screen!
 
 <img src="https://github.com/user-attachments/assets/99af6369-9028-4598-8226-b3acdb63f3a0" width="500"/>
 
