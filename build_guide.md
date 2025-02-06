@@ -1,11 +1,19 @@
 # BabyBelt Pro V2 Build Guide
 BabyBelt Pro V2 by RobMink
+Firmware guides by TheyCallMeZ aka BlueWyvern
+Physical Build Guide by Brent Lieb and Dr. Mason McNair of the Plants X Tech Lab at Michigan State University
 
-Written by Brent Lieb and Mason McNair of the Plants X Tech Lab at Michigan State University
 ## Introduction
 Hello! This is the build guide for the BabyBelt Pro V2 by RobMink. This guide was written with new builders in mind, so don't be intimidated if this is your first printer! The guide includes images when possible and assumes the user is building from the {Fabreeko build kit w/ link?}. 
 
-Throughout this build guide *Printed Parts* will me in italics and **Kit Parts** will be bolded. 
+How to read this guide:
+ - *Printed Parts* will be in italics
+ - **Kit Parts** will be bolded
+ - Printed Parts will link to the specific file in the github if clicked on
+ - Printed part name prefixes include
+   - [a] = accent color
+   - [s] = needs supports
+   - [HT] = should be printed in a strong heat tolerant material (PETG, ABS, ASA, PA) to avoid premature wearing
 
 >[!TIP] 
 >If you are not familiar with 3D Printers and their components, it is recommended that you leave the parts from the kit in their packaging until the guide instructs you to unpack them. This will help you keep track of them and avoid confusion later. 
@@ -23,11 +31,11 @@ Throughout this build guide *Printed Parts* will me in italics and **Kit Parts**
 ### Printing Parts
 Most of the parts of this kit can be printed out of normal PLA, allowing for a wide range of colors and stylistic choices! The parts that shouldn't be printed out of PLA are listed below. 
 
-- Nema17-Zgear
-- Roller-ZGear
-- Underbed
+- [*Nema17_ZGear*](
+- *Roller_ZGear*
+- *UnderbedOrBed*
 
-The printer that was built for this guide was made using [Timberfill](https://fillamentum.com/collections/timberfill-filament/) as the main filament, [Marble PLA](https://us.polymaker.com/products/panchroma-marble?variant=43612877946937) for an accent color, and [PolyMide PA6-GF](https://us.polymaker.com/products/fiberon-pa6-gf25) for the components that couldn't be printed out of PLA. 
+The design inspiration for the printer built for this guide was to make a printer out of "wood", "stone", and "glass" which is why we selected [Timberfill](https://fillamentum.com/collections/timberfill-filament/) as the primary filament, [Marble PLA](https://us.polymaker.com/products/panchroma-marble?variant=43612877946937) for the accent color, and [Fiberon PA6-GF](https://us.polymaker.com/products/fiberon-pa6-gf25) for the heat tolerant components. 
 
 ### Part List
 
