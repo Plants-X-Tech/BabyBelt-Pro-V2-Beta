@@ -149,87 +149,88 @@ Next use 2, **M3x10mm screws** and 2, **M3 Nuts** to attach the screen mount wit
 
 <img src="https://github.com/user-attachments/assets/f8f4b22a-0f02-4fcc-880c-143a53111aa4" width="500"/>
 
-Tada! You have installed the screen!
-
 <img src="https://github.com/user-attachments/assets/99af6369-9028-4598-8226-b3acdb63f3a0" width="500"/>
 
+Tada! You have installed the screen!
+
 ### Extruder
-Attach the (gear) to the extruder motor as such. Make sure it properly fits with the rest of the gears in the extruder.
+- Attach the **gear** to the **Nema 17 stepper motor** ensuring that the **grub screw** is tight against the flat part of the motor shaft
+>[!NOTE]
+> Make sure the gear fits properly with the rest of the gears in the extruder
 
 <img src="https://github.com/user-attachments/assets/ee6b4935-d054-41bc-b9f8-ac7f15953488" width="300"/>
 
-Line up the motor with the mounting holes in the side of the frame. 
+- Line up the motor with the mounting holes in the side of the frame
 
 <img src="https://github.com/user-attachments/assets/bd6d13f7-7065-4890-9354-b8aff10cd5e3" width="300"/>
 
-Attach the extruder to the outside of the frame and screw in with 4 **M3x10mm** screws to secure everything. 
+- Attach the extruder to the outside of the frame with 4, **M3x10mm** screws
 
 <img src="https://github.com/user-attachments/assets/f627ea61-01b5-446b-9ed1-e5c02fc67d36" width="300"/>
 
 ### Belt Tensioner
-Next we can build and install the belt tensioners. 
+Next we will build and install the belt tensioners. 
 >[!NOTE]
 >There are two of these, so do each step twice.
 
 <img src="https://github.com/user-attachments/assets/c6457005-1cc5-4994-9dfa-080abeef1ef4" width="500"/>
 
-The first step is to fit a **M8 Nut** into the (compenent name) and secure with a **M8x70mm** Screw. 
+- Fit a **M8 Nut** into [*PrintBelt_Pusher-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-A.stl)/[*PrintBelt_Pusher-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-B.stl)
+- Secure it with a **M8x70mm** Screw 
 
 <img src="https://github.com/user-attachments/assets/df1fb383-9402-4468-b976-6a9a1a05ac0a" width="300"/>
 <img src="https://github.com/user-attachments/assets/92e64ce2-4803-4124-9279-d7a819573305" width="500"/>
 
-Next fit another **M8 Nut** into the (component name) and line up with the hole on the (component name).
+- Fit another **M8 Nut** into the [*PrintBelt_Nut*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Nut%5Bx2%5D.stl) and line up with the hole on the [*PrintBelt_Frame-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-A.stl)/[*PrintBelt_Frame-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-B.stl).
 
 <img src="https://github.com/user-attachments/assets/6e03702d-3aa5-464d-9c64-d415d65d8d85" width="500"/>
 <img src="https://github.com/user-attachments/assets/c240b288-dc5a-4636-8a0b-98f97797228d" width="400"/>
 
-Your belt tensioners should look like this.
+Congratulations! You have built your tensionsers! They should look like this.
 
 <img src="https://github.com/user-attachments/assets/e39cf16a-80e4-4c52-b760-763699a63cf9" width="500"/>
 
-There will be a spot for the tensioners to fit on either side of the base. 
+- There are spots for the tensioners to fit on either side of the base. 
 
 <img src="https://github.com/user-attachments/assets/6782f3f2-decd-4a22-8f90-4d772b28c937" width="500"/>
 
-Use a **M3x20mm screw** to install both of the tensioners with the curved portion facing downward. 
+- Use a **M3x20mm screw** to install both of the tensioners with the curved portion facing downward. 
 
 <img src="https://github.com/user-attachments/assets/d7f2de77-f25e-4956-82bd-a4fd07d89f15" width="500"/>
 <img src="https://github.com/user-attachments/assets/ed9512a5-8de4-4748-b3db-ba6e1fe0bee2" width="500"/>
 
 ### Rollers
-Both rollers should be wrapped in electrical tape to maintain a better grip on the belt. I recommend 2 wraps, with the 2nd one helping to hold the first in place. 
-
-The rollers will be assembled by placing a **M8 Nut** into the side slot and then inserting a **M8x70 Hex Screw** with a **608ZZ bearing** fully into the roller.
+- Wrap both [*rollers*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl) in electrical tape to maintain a better grip on the belt
+- We recommend 2 wraps, with the 2nd one helping to hold the first in place 
+- Place a **M8 Nut** into the side slot and then inserting a **M8x70 Hex Screw** with a **608ZZ bearing** fully into the [*roller*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl)
 
 <img src="https://github.com/user-attachments/assets/9e3aadef-e4c9-4dc8-8644-2361f7116dfd" width="600"/>
 <img src="https://github.com/user-attachments/assets/17879f8c-5dbe-4347-8bf7-3feb78fd261c" width="600"/>
 <img src="https://github.com/user-attachments/assets/fc152093-dc8d-498b-9b91-96f2069aff33" width="600"/>
 <img src="https://github.com/user-attachments/assets/c8a36d71-9002-4c6f-bf11-f0d818ad1f3c" width="600"/>
 
-
-On one of the rollers, one end will also have the *rollerZGear* on the screw, before the bearing. 
+- On one of the rollers, install the [*Roller_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) on the screw, before the bearing
 <img src="https://github.com/user-attachments/assets/afde2928-e1e8-4733-8c04-ffd2baae0da5" width="600"/>
 <img src="https://github.com/user-attachments/assets/e4ae22e8-4ee6-4781-9b66-eb6a80ddd77b" width="600"/>
 <img src="https://github.com/user-attachments/assets/6513f526-5d7e-4cb6-b9b4-1e5cb766752e" width="600"/>
 
 ### Print Belt
-Follow the guide below to produce the belt. <br>
+Follow the guide below to make the printbelt. <br>
 https://docs.google.com/document/d/13pu9LH_nKmDJY-V2nZXMY8CHur7INB6-9V5sKlAuCuE/edit?usp=sharing
 
 ### Z Motor
-Now we will install the Z motor.
 
 <img src="https://github.com/user-attachments/assets/0b40892e-217d-4f52-80b4-7c3ce20613d7" width="500"/>
 
-This motor will be installed just like the extruder motor, but without the extruder. Use 4 **M3x10mm screws**. 
+- Attach the Z motor to the fram using 4, **M3x10mm screws** 
 
 <img src="https://github.com/user-attachments/assets/3fb7976c-f58f-4e95-9401-5e7e916cd272" width="500"/>
 
-You will want to make sure the wire port on the motor is facing towards the screen. 
+- Make sure the wire port on the motor is facing towards the screen 
 
 <img src="https://github.com/user-attachments/assets/7877d8de-6ce7-4902-9283-c2a2d269ba93" width="500"/>
 
-Install the *Nema 17 Z Gear* onto the motor and then check to make sure it will line up with the gear on the Z roller. 
+- Install the [*Nema 17_Z Gear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Nema17_ZGear.stl) onto the motor and then check to make sure it lines up with the gear on the [*Roller_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) we installed on one of the rollers earlier
 
 <img src="https://github.com/user-attachments/assets/5c964e1b-c2df-4af8-b923-84f7bea368fb" width="250"/>
 <img src="https://github.com/user-attachments/assets/d71a185e-4428-4ba6-96d3-8a3b8c4009c8" width="500"/>
@@ -239,18 +240,19 @@ Improperly fitting vs Properly fitting gears
 <img src="https://github.com/user-attachments/assets/4cbc0b8f-7f7b-4984-b562-efb14ed604ee" width="450"/>
 <img src="https://github.com/user-attachments/assets/172ade7e-f9cf-4630-b455-d86e6c6c31c1" width="500"/>
 
-Place a **M3 Nut** into the slot on the side of the base right above the motor. Repeat on the other side. 
+- Place a **M3 Nut** into the slot on the side of the frame right above the motor. Repeat on the other side
 
 <img src="https://github.com/user-attachments/assets/230711e7-efb6-4479-b41e-3a5bc8a730e7" width="400"/>
 <img src="https://github.com/user-attachments/assets/51d66fe4-46e7-4d7e-bfda-5b9f368a5c47" width="500"/>
 
-Use a **M3 Nut** and **M3x20mm** screw to attach the scrapper like how the screen mount was attached previously. Use **M3x10mm** to attach the scrapper right below the roller, securing into the nuts we previously inserted. 
+- Use a **M3 Nut** and **M3x20mm** screw to attach the [*scraper*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Scraper.stl) in the same manner the screen mount was attached previously
+- Use a **M3x10mm** to attach the scraper below the roller, securing into the nuts we previously inserted 
 
 <img src="https://github.com/user-attachments/assets/a0f8708d-9e75-4c7e-93d0-6078a2efaa76" width="500"/>
 <img src="https://github.com/user-attachments/assets/050e85e9-5f11-4d8c-854d-8ba158d446f3" width="450"/>
 
 >[!NOTE]
->To complete this guide, we decied to leave the belt off during this step to make it easier to get clear images of the build as it progressed. Even once the printer is built, removing the scrapper and replacing the belt is a trivial process. Since you are NOT creating the BabyBeltPro V2 Build Manual, install the Z roller with the belt so it looks like the picture on the right. 
+>To complete this guide, we decided to leave the belt off during this step to make it easier to get clear images of the build as it progressed. Even once the printer is built, removing the scraper and replacing the belt is quick and easy. At this point, we suggest you install the Z roller with the belt so it looks like the picture on the right. 
 
 <img src="https://github.com/user-attachments/assets/0c7a9985-c82d-4b31-ace3-f78fa4ebd704" width="500"/>
 <img src="https://github.com/user-attachments/assets/2bb28c96-0a7e-42c5-a27f-0e4e4b368a42" width="375"/>
