@@ -440,7 +440,7 @@ Next install the **Y motor** onto the X gantry.
 
 
 >[!Caution]
->The printed parts shown for the X axis belt attachment steps are not the most current up to date versions, we will update the photos when we can. The main difference is that instead of mounting the GT2 belt directly to the X_RailMount_Side-A & X_RailMount_Side-B like in our instructions below you will attach the belt using the [*X_PivotArm](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotArm%5Bx2%5D.stl) and [*X_Pivot Clamp*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotClamp%5Bx2%5D.stl)
+>The printed parts shown for the X axis belt attachment steps are not the most current up to date versions, we will update the photos when we can. The main difference is that instead of mounting the GT2 belt directly to the X_RailMount_Side-A & X_RailMount_Side-B like in our instructions below you will attach the belt using the [*X_PivotArm*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotArm%5Bx2%5D.stl) and [*X_Pivot Clamp*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotClamp%5Bx2%5D.stl)
 >
 
 - Run the belt for the X Axis as seen below, going through the lower hole on the right
