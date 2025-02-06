@@ -37,6 +37,15 @@ Most of the parts of this kit can be printed out of normal PLA, allowing for a w
 - [*Roller_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl)
 - [*UnderbedOrBed*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_UnderbedOrBed.stl)
 
+We recommend printing all parts with standard Voron style settings:
+
+- Layer height: 0.2mm
+- Extrusion width: 0.4mm, forced
+- Infill percentage: 40%
+- Infill type: grid, gyroid, honeycomb, triangle, or cubic
+- Wall count: 4
+- Solid top/bottom layers: 5
+
 The design inspiration for the printer built for this guide was to make a printer out of "wood", "stone", and "glass" which is why we selected [Timberfill](https://fillamentum.com/collections/timberfill-filament/) as the primary filament, [Marble PLA](https://us.polymaker.com/products/panchroma-marble?variant=43612877946937) for the accent color, and [Fiberon PA6-GF](https://us.polymaker.com/products/fiberon-pa6-gf25) for the heat tolerant components. 
 
 ### Part List
