@@ -1,6 +1,8 @@
 # BabyBelt Pro V2 Build Guide
 BabyBelt Pro V2 by RobMink
+
 Firmware guides by TheyCallMeZ aka BlueWyvern
+
 Physical Build Guide by Brent Lieb and Dr. Mason McNair of the Plants X Tech Lab at Michigan State University
 
 ## Introduction
