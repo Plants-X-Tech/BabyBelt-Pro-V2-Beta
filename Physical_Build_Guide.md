@@ -1,4 +1,4 @@
-# BabyBelt Pro V2 Build Guide
+# BabyBelt Pro V2 Pysical Build Guide
 BabyBelt Pro V2 by RobMink
 
 Firmware guides by TheyCallMeZ aka BlueWyvern
