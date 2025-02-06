@@ -50,7 +50,7 @@ The design inspiration for the printer built for this guide was to make a printe
 
 ### Part List
 
-Link to the STL files for the printer
+Coming Soon!
 
 >[!NOTE]
 >If you are using a Revo-style Hot End and not the Bamboo nozzle that comes with the Fabreeko kit, then the gantry-carriage parts will be slightly different and can be found in the "Mods" folder. 
@@ -66,9 +66,7 @@ This is all of the parts that will be inside the box, spread out for visibility.
 
 ### Part List
 
-- Written
-- Here
-- Get from Rob Github
+Coming Soon! In the meantime [see the BOM here](https://docs.google.com/spreadsheets/d/19PbR3nFbQ4-eIOTU0kmoTl5-mHv_KsTnUdfFXekWg-I/edit?gid=0#gid=0)
 
 ## Physical Build
 >[!NOTE]
