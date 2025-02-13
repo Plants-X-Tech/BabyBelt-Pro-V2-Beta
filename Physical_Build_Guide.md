@@ -124,7 +124,7 @@ Next we will install the screen.
 
 <img src="https://github.com/user-attachments/assets/7d2010a1-e6ee-433a-97a6-2b42b1cd4d0b" width="500"/>
 
-- Use 4, **M3x10mm** to connect the screen to the [*Screenmount*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
+- Use 4, **M3x10mm** to connect the screen to the [*Screenmount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
 <img src="https://github.com/user-attachments/assets/56344ad5-babf-43a7-845c-54267f22ab2f" width="500"/>
 
@@ -144,11 +144,11 @@ Here is what it should look like.
 
 <img src="https://github.com/user-attachments/assets/f32a3417-b41a-479b-ab4b-8d5fe66cb84c" width="300"/>
 
-- Attach the [*screen mount*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl) to the frame by inserting one **M3 Nut** into the hole on the bottom of the frame, next to where it slots into the base 
+- Attach the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl) to the frame by inserting one **M3 Nut** into the hole on the bottom of the frame, next to where it slots into the base 
 
 <img src="https://github.com/user-attachments/assets/597d2b2c-b585-4c7a-b72e-251d67fccc63" width="500"/>
 
-- Insert one **M3x20mm** into the hole on the side of the frame and use it to secure the [*screen mount*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
+- Insert one **M3x20mm** into the hole on the side of the frame and use it to secure the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
 <img src="https://github.com/user-attachments/assets/a6d614dc-dff0-48c2-993d-31b4e22f030d" width="500"/>
 
@@ -182,13 +182,13 @@ Next we will build and install the belt tensioners.
 
 <img src="https://github.com/user-attachments/assets/c6457005-1cc5-4994-9dfa-080abeef1ef4" width="500"/>
 
-- Fit a **M8 Nut** into [*PrintBelt_Pusher-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-A.stl)/[*PrintBelt_Pusher-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-B.stl)
+- Fit a **M8 Nut** into [*PrintBelt_Pusher-A*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-A.stl)/[*PrintBelt_Pusher-B*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-B.stl)
 - Secure it with a **M8x70mm** Screw 
 
 <img src="https://github.com/user-attachments/assets/df1fb383-9402-4468-b976-6a9a1a05ac0a" width="300"/>
 <img src="https://github.com/user-attachments/assets/92e64ce2-4803-4124-9279-d7a819573305" width="500"/>
 
-- Fit another **M8 Nut** into the [*PrintBelt_Nut*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Nut%5Bx2%5D.stl) and line up with the hole on the [*PrintBelt_Frame-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-A.stl)/[*PrintBelt_Frame-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-B.stl).
+- Fit another **M8 Nut** into the [*PrintBelt_Nut*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Nut%5Bx2%5D.stl) and line up with the hole on the [*PrintBelt_Frame-A*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-A.stl)/[*PrintBelt_Frame-B*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-B.stl).
 
 <img src="https://github.com/user-attachments/assets/6e03702d-3aa5-464d-9c64-d415d65d8d85" width="500"/>
 <img src="https://github.com/user-attachments/assets/c240b288-dc5a-4636-8a0b-98f97797228d" width="400"/>
@@ -207,16 +207,16 @@ Congratulations! You have built your tensionsers! They should look like this.
 <img src="https://github.com/user-attachments/assets/ed9512a5-8de4-4748-b3db-ba6e1fe0bee2" width="500"/>
 
 ### Rollers
-- Wrap both [*rollers*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl) in electrical tape to maintain a better grip on the belt
+- Wrap both [*rollers*](Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl) in electrical tape to maintain a better grip on the belt
 - We recommend 2 wraps, with the 2nd one helping to hold the first in place 
-- Place a **M8 Nut** into the side slot and then inserting a **M8x70 Hex Screw** with a **608ZZ bearing** fully into the [*roller*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl)
+- Place a **M8 Nut** into the side slot and then inserting a **M8x70 Hex Screw** with a **608ZZ bearing** fully into the [*roller*](Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl)
 
 <img src="https://github.com/user-attachments/assets/9e3aadef-e4c9-4dc8-8644-2361f7116dfd" width="600"/>
 <img src="https://github.com/user-attachments/assets/17879f8c-5dbe-4347-8bf7-3feb78fd261c" width="600"/>
 <img src="https://github.com/user-attachments/assets/fc152093-dc8d-498b-9b91-96f2069aff33" width="600"/>
 <img src="https://github.com/user-attachments/assets/c8a36d71-9002-4c6f-bf11-f0d818ad1f3c" width="600"/>
 
-- On one of the rollers, install the [*Roller_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) on the screw, before the bearing
+- On one of the rollers, install the [*Roller_ZGear*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) on the screw, before the bearing
 <img src="https://github.com/user-attachments/assets/afde2928-e1e8-4733-8c04-ffd2baae0da5" width="600"/>
 <img src="https://github.com/user-attachments/assets/e4ae22e8-4ee6-4781-9b66-eb6a80ddd77b" width="600"/>
 <img src="https://github.com/user-attachments/assets/6513f526-5d7e-4cb6-b9b4-1e5cb766752e" width="600"/>
@@ -237,7 +237,7 @@ https://docs.google.com/document/d/13pu9LH_nKmDJY-V2nZXMY8CHur7INB6-9V5sKlAuCuE/
 
 <img src="https://github.com/user-attachments/assets/7877d8de-6ce7-4902-9283-c2a2d269ba93" width="500"/>
 
-- Install the [*Nema 17_Z Gear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Nema17_ZGear.stl) onto the motor and then check to make sure it lines up with the gear on the [*Roller_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) we installed on one of the rollers earlier
+- Install the [*Nema 17_Z Gear*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Nema17_ZGear.stl) onto the motor and then check to make sure it lines up with the gear on the [*Roller_ZGear*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) we installed on one of the rollers earlier
 
 <img src="https://github.com/user-attachments/assets/5c964e1b-c2df-4af8-b923-84f7bea368fb" width="250"/>
 <img src="https://github.com/user-attachments/assets/d71a185e-4428-4ba6-96d3-8a3b8c4009c8" width="500"/>
@@ -252,7 +252,7 @@ Improperly fitting vs Properly fitting gears
 <img src="https://github.com/user-attachments/assets/230711e7-efb6-4479-b41e-3a5bc8a730e7" width="400"/>
 <img src="https://github.com/user-attachments/assets/51d66fe4-46e7-4d7e-bfda-5b9f368a5c47" width="500"/>
 
-- Use a **M3 Nut** and **M3x20mm** screw to attach the [*scraper*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Scraper.stl) in the same manner the screen mount was attached previously
+- Use a **M3 Nut** and **M3x20mm** screw to attach the [*scraper*](Printed%20Parts/Frame/BBProV25fl_Scraper.stl) in the same manner the screen mount was attached previously
 - Use a **M3x10mm** to attach the scraper below the roller, securing into the nuts we previously inserted 
 
 <img src="https://github.com/user-attachments/assets/a0f8708d-9e75-4c7e-93d0-6078a2efaa76" width="500"/>
@@ -265,18 +265,18 @@ Improperly fitting vs Properly fitting gears
 <img src="https://github.com/user-attachments/assets/2bb28c96-0a7e-42c5-a27f-0e4e4b368a42" width="375"/>
 
 ### Y Stop
-- Insert the [*TensionIdlerHolder*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl) into the [*TensionBody*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionBody.stl) with the larger hole (to accomodate for the screw head) on the same side as the circular indentation on the body
+- Insert the [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl) into the [*TensionBody*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionBody.stl) with the larger hole (to accomodate for the screw head) on the same side as the circular indentation on the body
 - Make sure your orientation matches the following pictures
-- Keep the [*TensionIdlerHolder*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  in place with a **M3x20mm screw**
+- Keep the [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  in place with a **M3x20mm screw**
 
 <img src="https://github.com/user-attachments/assets/15919510-2bae-485b-913d-e8298204de60" width="400"/>
 <img src="https://github.com/user-attachments/assets/7af55c58-0bbf-41a4-b603-e724bc4c4f4e" width="400"/>
 
 >[!CAUTION]
->Make sure the configuration of your [*TensionIdlerHolder*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  and [*TensionBody*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionBody.stl) are correct before proceeding.
+>Make sure the configuration of your [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  and [*TensionBody*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionBody.stl) are correct before proceeding.
 
 ### Hotend Fan
-Attach the [*YCar_Bam_Fan*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Fan.stl) to the [*YCar_Bam_BeltHolder*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_BeltHolder.stl) by inserting 2, **M3x10 screws** into the holes indicated in the first image, and through the whole in the second image
+Attach the [*YCar_Bam_Fan*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Fan.stl) to the [*YCar_Bam_BeltHolder*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_BeltHolder.stl) by inserting 2, **M3x10 screws** into the holes indicated in the first image, and through the whole in the second image
 - Secure with **M3 Nuts** 
 
 <img src="https://github.com/user-attachments/assets/983b2477-9dfa-4432-8ae9-50a352528a17" width="400"/>
@@ -292,7 +292,7 @@ Your part should now look like this.
 - Use a zip tie to secure the wires to the side of the carriage 
 
 ### Y Gantry
-- Insert a **M3 Nut** into this slot on the [*YCar_Bam_Side-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-A.stl)
+- Insert a **M3 Nut** into this slot on the [*YCar_Bam_Side-A*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-A.stl)
 
 <img src="https://github.com/user-attachments/assets/8389007d-f2ee-4525-b71f-9ce973659500" width="400"/>
 
@@ -300,7 +300,7 @@ Your part should now look like this.
 
 <img src="https://github.com/user-attachments/assets/40ef57ec-a302-498a-b38c-03a722d43448" width="400"/>
 
-- Insert a **M3 Nut** into the still exposed slot on the [*YCar_Bam_Side-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-A.stl)
+- Insert a **M3 Nut** into the still exposed slot on the [*YCar_Bam_Side-A*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-A.stl)
 
 <img src="https://github.com/user-attachments/assets/14f45fcf-075b-46d2-b59d-07b6f31b1015" width="400"/>
 <img src="https://github.com/user-attachments/assets/ca8fff81-89f2-453d-a82b-0f0ca9a63a19" width="400"/>
@@ -309,16 +309,16 @@ Your part should now look like this.
 
 <img src="https://github.com/user-attachments/assets/4ad4f308-e609-4841-a616-053420db988f" width="400"/>
 
-- Insert **M3 Nuts** into the slots indicated on the [*YCar_Bam_Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
+- Insert **M3 Nuts** into the slots indicated on the [*YCar_Bam_Side-B*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
 
 <img src="https://github.com/user-attachments/assets/690f6a91-35cc-4c6f-8a33-c25ede306f81" width="400"/>
 <img src="https://github.com/user-attachments/assets/885f7aad-7a41-429c-9c85-67f06a6d4d6a" width="400"/> 
 
-Next we will install the hotend to the [*YCar_Bam_Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
+Next we will install the hotend to the [*YCar_Bam_Side-B*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
 
 <img src="https://github.com/user-attachments/assets/043df1a4-8de6-4cf5-bd9d-c47bba7ad218" width="400"/>
 
-- Use a **M3x20mm screw** and a **M3 Nut** to attach the hotend to the [*YCar_Bam_Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
+- Use a **M3x20mm screw** and a **M3 Nut** to attach the hotend to the [*YCar_Bam_Side-B*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
 through the hole shown at the top
 
 <img src="https://github.com/user-attachments/assets/9245b2fb-d5c7-429b-b5fb-7d604090764f" width="400"/>
@@ -394,7 +394,7 @@ Here's what it should look like with the rails attached.
 <img src="https://github.com/user-attachments/assets/c467dfec-9481-4607-829e-a9c057e60abd" width="600"/>
 
 >[!Note]
->Unfortunately, we missed taking photos installing the the [*X_RailMount_Side-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_RailMount_Side-A.stl) and [*X_RailMount_Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_RailMount_Side-B.stl)
+>Unfortunately, we missed taking photos installing the the [*X_RailMount_Side-A*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_RailMount_Side-A.stl) and [*X_RailMount_Side-B*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_RailMount_Side-B.stl)
 >Attach these printed parts using 4, **M2x8mm screws** and 4, **M2 Nuts**
 >
 
@@ -407,7 +407,7 @@ FUSION HA!
 
 <img src="https://github.com/user-attachments/assets/21deac05-1ee3-4488-a921-4ea1e36e1021" width="600"/>
 
-- Attach the [*LinearRailReplacement*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/Y/%5Bany%5D_BBProV25fl_LinearRailReplacment.stl) on the other side of the Y axis in the same way 
+- Attach the [*LinearRailReplacement*](Printed%20Parts/Gantry/Y/%5Bany%5D_BBProV25fl_LinearRailReplacment.stl) on the other side of the Y axis in the same way 
 
 <img src="https://github.com/user-attachments/assets/2a9f8729-0ef7-4b5c-a443-c390910b8b3d" width="600"/>
 <img src="https://github.com/user-attachments/assets/acf06334-0604-49fc-b51e-eb4bf63ff3b6" width="600"/>
@@ -447,7 +447,7 @@ Next install the **Y motor** onto the X gantry.
 
 
 >[!Caution]
->The printed parts shown for the X axis belt attachment steps are not the most current up to date versions, we will update the photos when we can. The main difference is that instead of mounting the GT2 belt directly to the X_RailMount_Side-A & X_RailMount_Side-B like in our instructions below you will attach the belt using the [*X_PivotArm*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotArm%5Bx2%5D.stl) and [*X_Pivot Clamp*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotClamp%5Bx2%5D.stl)
+>The printed parts shown for the X axis belt attachment steps are not the most current up to date versions, we will update the photos when we can. The main difference is that instead of mounting the GT2 belt directly to the X_RailMount_Side-A & X_RailMount_Side-B like in our instructions below you will attach the belt using the [*X_PivotArm*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotArm%5Bx2%5D.stl) and [*X_Pivot Clamp*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotClamp%5Bx2%5D.stl)
 >
 
 - Run the belt for the X Axis as seen below, going through the lower hole on the right
@@ -490,7 +490,7 @@ Something something pun about a bed and blankets making it warm...
 
 <img src="https://github.com/user-attachments/assets/cbd421c4-3ead-4061-8cbd-e0d473481145" width="400"/>
 
-- Attach the **aluminum bed** using 3, **M3x10mm** to the [*UnderbedOrBed*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_UnderbedOrBed.stl) using 3, **M3 Nuts** on each screw as spacers
+- Attach the **aluminum bed** using 3, **M3x10mm** to the [*UnderbedOrBed*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_UnderbedOrBed.stl) using 3, **M3 Nuts** on each screw as spacers
 
 <img src="https://github.com/user-attachments/assets/591c3b34-babb-4eeb-850f-39108be2516c" width="400"/>
 
