@@ -72,6 +72,8 @@ Coming Soon! In the meantime [see the BOM here](https://docs.google.com/spreadsh
 >[!NOTE]
 >There are several times during this build when a component will be secured with multiple screws. It is generally recommended to NOT fully tighten a screw before the rest have been started, to make sure parts line up correctly and don't crack. 
 ### Base
+> I mean I prefer treble but okay
+
 Start by constructing the base. 
 - Place an **M3 Nut** into the hole indicated by the arrow in [*Side-B*](Printed%20Parts/Frame/BBProV25fl_Side-B.stl)
 <img src="Images/3" width="600"/>
@@ -84,6 +86,8 @@ The base should now look like this.
 <img src="Images/5" width="600"/>
 
 ### Power Switch and Jack
+> Who's Jack? I don't know any Jack
+
 Next install the **power jack** and **switch**. 
 
 <img src="Images/6" width="400"/>
@@ -106,6 +110,8 @@ Here is what it should look like from the other side.
 <img src="https://github.com/user-attachments/assets/4c4e5fe0-e58a-4b74-9332-37aeebc78053" width="400"/>
 
 ### Board
+> All a'board!
+
 - Install the SKR board by the power switch using 3, **M3x10mm**
 
 <img src="https://github.com/user-attachments/assets/b7ecfd8f-f5dd-46bf-8269-dbd4b9b66b3b" width="500"/>
@@ -120,6 +126,8 @@ Here is what it should look like from the other side.
 <img src="https://github.com/user-attachments/assets/a796f87f-1ac0-43b1-a7ee-fe7631c2516e" width="400"/>
 
 ### Screen
+> AAAAAAAAAAAHHHHHHHHH, oh sorry I thought you said scream
+
 Next we will install the screen.
 
 <img src="https://github.com/user-attachments/assets/7d2010a1-e6ee-433a-97a6-2b42b1cd4d0b" width="500"/>
@@ -161,6 +169,7 @@ Next use 2, **M3x10mm screws** and 2, **M3 Nuts** to attach the screen mount wit
 Tada! You have installed the screen!
 
 ### Extruder
+> I barely know 'er!
 - Attach the **gear** to the **Nema 17 stepper motor** ensuring that the **grub screw** is tight against the flat part of the motor shaft
 >[!NOTE]
 > Make sure the gear fits properly with the rest of the gears in the extruder
@@ -176,6 +185,8 @@ Tada! You have installed the screen!
 <img src="https://github.com/user-attachments/assets/f627ea61-01b5-446b-9ed1-e5c02fc67d36" width="300"/>
 
 ### Belt Tensioner
+> Consider loosening or removing after big holiday meals
+
 Next we will build and install the belt tensioners. 
 >[!NOTE]
 >There are two of these, so do each step twice.
@@ -207,6 +218,8 @@ Congratulations! You have built your tensionsers! They should look like this.
 <img src="https://github.com/user-attachments/assets/ed9512a5-8de4-4748-b3db-ba6e1fe0bee2" width="500"/>
 
 ### Rollers
+> Not the kind your grandma used to wear
+
 - Wrap both [*rollers*](Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl) in electrical tape to maintain a better grip on the belt
 - We recommend 2 wraps, with the 2nd one helping to hold the first in place 
 - Place a **M8 Nut** into the side slot and then inserting a **M8x70 Hex Screw** with a **608ZZ bearing** fully into the [*roller*](Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl)
@@ -222,10 +235,13 @@ Congratulations! You have built your tensionsers! They should look like this.
 <img src="https://github.com/user-attachments/assets/6513f526-5d7e-4cb6-b9b4-1e5cb766752e" width="600"/>
 
 ### Print Belt
+> Personally I prefer leopard
+
 Follow the guide below to make the printbelt. <br>
 https://docs.google.com/document/d/13pu9LH_nKmDJY-V2nZXMY8CHur7INB6-9V5sKlAuCuE/edit?usp=sharing
 
 ### Z Motor
+> OOOOHHHH you mean like the axis
 
 <img src="https://github.com/user-attachments/assets/0b40892e-217d-4f52-80b4-7c3ce20613d7" width="500"/>
 
@@ -265,6 +281,8 @@ Improperly fitting vs Properly fitting gears
 <img src="https://github.com/user-attachments/assets/2bb28c96-0a7e-42c5-a27f-0e4e4b368a42" width="375"/>
 
 ### Y Stop
+> Because we said so
+
 - Insert the [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl) into the [*TensionBody*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionBody.stl) with the larger hole (to accomodate for the screw head) on the same side as the circular indentation on the body
 - Make sure your orientation matches the following pictures
 - Keep the [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  in place with a **M3x20mm screw**
@@ -276,6 +294,8 @@ Improperly fitting vs Properly fitting gears
 >Make sure the configuration of your [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  and [*TensionBody*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionBody.stl) are correct before proceeding.
 
 ### Hotend Fan
+> For the printer not you ;)
+
 Attach the [*YCar_Bam_Fan*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Fan.stl) to the [*YCar_Bam_BeltHolder*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_BeltHolder.stl) by inserting 2, **M3x10 screws** into the holes indicated in the first image, and through the whole in the second image
 - Secure with **M3 Nuts** 
 
@@ -292,6 +312,8 @@ Your part should now look like this.
 - Use a zip tie to secure the wires to the side of the carriage 
 
 ### Y Gantry
+> well it sounds better than support, platform, or bracket
+
 - Insert a **M3 Nut** into this slot on the [*YCar_Bam_Side-A*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-A.stl)
 
 <img src="https://github.com/user-attachments/assets/8389007d-f2ee-4525-b71f-9ce973659500" width="400"/>
@@ -343,6 +365,8 @@ through the hole shown at the top
 <img src="https://github.com/user-attachments/assets/9e267cb4-9877-40e7-ba8b-b59a1467b9f7" width="400"/>
 
 ### Hotend
+> Again talking about the printer not yours
+
 Next we will install the electrical components to the hotend. 
 
 <img src="https://github.com/user-attachments/assets/809f991b-b64a-46eb-bc87-5248a2eb747f" width="600"/>
@@ -365,6 +389,8 @@ The thermistor
 <img src="https://github.com/user-attachments/assets/816ab2e8-2e75-48d0-932d-365b61ea6904" width="600"/>
 
 ### Parts Fan
+> Not to be confused with a whole fan. I mean it is a whole fan but it's for cooling parts.
+
 Time to install the **part cooling fan** to the front of the **hotend heatbreak**. 
 
 <img src="https://github.com/user-attachments/assets/079fcc9f-1a05-4524-a414-5f646b13f125" width="600"/>
@@ -379,6 +405,8 @@ Time to install the **part cooling fan** to the front of the **hotend heatbreak*
 <img src="https://github.com/user-attachments/assets/f6b1fe6c-5bd6-4c34-ac04-bad08b512f06" width="384"/>
 
 ### X Gantry
+> The breakup was hard on everyone
+
 - Line up the **smooth idlers** with the indicated holes and secure in place with 2, **M3x20 screws**
 <img src="(https://github.com/user-attachments/assets/e96993ae-0902-4b96-b806-d7710f0146ad" width="600"/>
 <img src="https://github.com/user-attachments/assets/514bbd8f-24d2-4797-9810-8d411b986082" width="600"/>
@@ -399,7 +427,7 @@ Here's what it should look like with the rails attached.
 >
 
 ### Combining Axes
-FUSION HA!
+> FUSION HA!
 
 <img src="https://github.com/user-attachments/assets/473fdab5-2522-43b9-8af5-a2f951ea1a42" width="600"/>
 
@@ -413,6 +441,8 @@ FUSION HA!
 <img src="https://github.com/user-attachments/assets/acf06334-0604-49fc-b51e-eb4bf63ff3b6" width="600"/>
 
 ### GT2 Belts
+> Gran Turismo 2 was the best one, not sure why people keep bringing up belts tho...
+
 >[!NOTE]
 >When installing the GT2 belts, try to get them as tight as possible when you first install them. This will make it easier to get the right tension later. You can precut the belts to 480mm (Y axis) and 290mm (X axis) and trim down when finishing, or you can run a much longer length (even the full uncut belt) to make sure you don't cut your belt too short. Either way you will have some leftover. 
  
@@ -479,7 +509,7 @@ Next install the **Y motor** onto the X gantry.
 <img src="https://github.com/user-attachments/assets/12b3c39f-a960-44a5-bc6e-b6b34ff3f06d" width="400"/>
 
 ### Hotbed
-Something something pun about a bed and blankets making it warm...
+> Something something pun about a bed and blankets making it warm...
 
 <img src="https://github.com/user-attachments/assets/68541709-a9e4-49b4-adad-854df8226e4b" width="600"/>
 
@@ -499,7 +529,9 @@ Something something pun about a bed and blankets making it warm...
 <img src="https://github.com/user-attachments/assets/8c6ccaba-0652-40a8-a365-d0bc667e1c3d" width="400"/>
 
 ### Wiring
-It's electric, Boogie woogie, woogie! Well, not yet but soon^TM^. Let's get those wires connected!
+> It's electric, Boogie woogie, woogie! Well, not yet but soon^TM^.
+
+Let's get those wires connected!
 
 >[!NOTE]
 >This hole located on the right of the screen holder is where all wires from the outside of the base should be routed through. This includes the X and Y motors, both fans, the thermistor, and heater. <br>
@@ -538,7 +570,7 @@ It's electric, Boogie woogie, woogie! Well, not yet but soon^TM^. Let's get thos
 <img src="https://github.com/user-attachments/assets/2689e484-922c-4ec5-a81e-77556d32ac77" width="400"/>
 
 ### Print Belt
-The end of the road! 
+> The end of the road! I mean technically its a loop so there is no end
 
 Now that all the insides are done we can do final assembly of the belt. This is straightfoward, but can be a bit tricky to make everything fit right. If things aren't fitting right or moving smoothly DO NOT force anything, try sanding at any pain points and try again.
 
