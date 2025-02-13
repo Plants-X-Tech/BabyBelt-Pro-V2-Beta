@@ -97,74 +97,74 @@ Next install the **power jack** and **switch**.
 - Secure the power jack with the supplied nut
 - The power switch will locks into place once pushed in
   
-<img src="https://github.com/user-attachments/assets/3d6d6a31-7caf-4dcb-abdb-f1ed99514283" width="400"/>
+<img src="Images/7" width="400"/>
 
 Here is what it should look like from the other side. 
 
-<img src="https://github.com/user-attachments/assets/77bac97a-cb90-4558-a4f0-0e4bb4c02942" width="400"/>
+<img src="Images/8" width="400"/>
 
 - Wire the two components as such
 - Wrap in electrical tape or use heat-shrink tubing (not supplied) to insulate the connections and avoid accidental shorting
 - We opted to solder the wires to the connectors for this build
 
-<img src="https://github.com/user-attachments/assets/4c4e5fe0-e58a-4b74-9332-37aeebc78053" width="400"/>
+<img src="Images/9" width="400"/>
 
 ### Board
 > All a'board!
 
 - Install the SKR board by the power switch using 3, **M3x10mm**
 
-<img src="https://github.com/user-attachments/assets/b7ecfd8f-f5dd-46bf-8269-dbd4b9b66b3b" width="500"/>
+<img src="Images/10" width="500"/>
 
 - Make sure the Micro-USB and MicroSD ports line up with the holes for them in the side panel
 
-<img src="https://github.com/user-attachments/assets/7149403c-ffb8-4952-a30e-437616d1a554" width="400"/>
+<img src="Images/11" width="400"/>
 
 - Connect the wires from the power switch & power jack to the SKR board as shown below
-<img src="https://github.com/user-attachments/assets/341a8c70-fc60-44ff-981f-8a9f0b21cab1" width="400"/>
+<img src="Images/12" width="400"/>
 
-<img src="https://github.com/user-attachments/assets/a796f87f-1ac0-43b1-a7ee-fe7631c2516e" width="400"/>
+<img src="Images/13" width="400"/>
 
 ### Screen
 > AAAAAAAAAAAHHHHHHHHH, oh sorry I thought you said scream
 
 Next we will install the screen.
 
-<img src="https://github.com/user-attachments/assets/7d2010a1-e6ee-433a-97a6-2b42b1cd4d0b" width="500"/>
+<img src="Images/14" width="500"/>
 
 - Use 4, **M3x10mm** to connect the screen to the [*Screenmount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
-<img src="https://github.com/user-attachments/assets/56344ad5-babf-43a7-845c-54267f22ab2f" width="500"/>
+<img src="Images/15" width="500"/>
 
 Here is what it should look like. 
 
-<img src="https://github.com/user-attachments/assets/2c9b1930-8b4a-4e23-8fb0-0d9b97458b7b" width="500"/>
+<img src="Images/16" width="500"/>
 
 - Attach the knob by pushing it onto the silver dial beneath the screen
 
-<img src="https://github.com/user-attachments/assets/af6e648e-cb76-47d7-8f44-9cd0f53df8f0" width="500"/>
+<img src="Images/17" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/fdc654fa-ed42-4689-9ce5-1be9e89d27ea" width="500"/>
+<img src="Images/18" width="500"/>
 
 - Plug the wire into the port labeled RS232 on the back of the screen using the black plastic connector that combines all the wires into one
 
-<img src="https://github.com/user-attachments/assets/f9ca34d8-1787-478c-8bad-1660cb3cc499" width="300"/>
+<img src="Images/19" width="300"/>
 
-<img src="https://github.com/user-attachments/assets/f32a3417-b41a-479b-ab4b-8d5fe66cb84c" width="300"/>
+<img src="Images/20" width="300"/>
 
 - Attach the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl) to the frame by inserting one **M3 Nut** into the hole on the bottom of the frame, next to where it slots into the base 
 
-<img src="https://github.com/user-attachments/assets/597d2b2c-b585-4c7a-b72e-251d67fccc63" width="500"/>
+<img src="Images/21" width="500"/>
 
 - Insert one **M3x20mm** into the hole on the side of the frame and use it to secure the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
-<img src="https://github.com/user-attachments/assets/a6d614dc-dff0-48c2-993d-31b4e22f030d" width="500"/>
+<img src="Images/22" width="500"/>
 
 Next use 2, **M3x10mm screws** and 2, **M3 Nuts** to attach the screen mount with the two holes in the top. 
 
-<img src="https://github.com/user-attachments/assets/f8f4b22a-0f02-4fcc-880c-143a53111aa4" width="500"/>
+<img src="Images/23" width="500"/>
 
-<img src="https://github.com/user-attachments/assets/99af6369-9028-4598-8226-b3acdb63f3a0" width="500"/>
+<img src="Images/24" width="500"/>
 
 Tada! You have installed the screen!
 
@@ -174,7 +174,7 @@ Tada! You have installed the screen!
 >[!NOTE]
 > Make sure the gear fits properly with the rest of the gears in the extruder
 
-<img src="https://github.com/user-attachments/assets/ee6b4935-d054-41bc-b9f8-ac7f15953488" width="300"/>
+<img src="Images/25" width="300"/>
 
 - Line up the motor with the mounting holes in the side of the frame
 
