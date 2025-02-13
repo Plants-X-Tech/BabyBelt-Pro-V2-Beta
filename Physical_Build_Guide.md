@@ -33,9 +33,9 @@ How to read this guide:
 ### Printing Parts
 Most of the parts of this kit can be printed out of normal PLA, allowing for a wide range of colors and stylistic choices! The parts that shouldn't be printed out of PLA are listed below. 
 
-- [*Nema17_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Nema17_ZGear.stl)
-- [*Roller_ZGear*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl)
-- [*UnderbedOrBed*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_UnderbedOrBed.stl)
+- [*Nema17_ZGear*](Printed%20Parts/ZBeltDrive/[HT]_BBProV25fl_Nema17_ZGear.stl)
+- [*Roller_ZGear*](Printed%20Parts/ZBeltDrive/[HT]_BBProV25fl_Roller_ZGear.stl)
+- [*UnderbedOrBed*](Printed%20Parts/ZBeltDrive/[HT]_BBProV25fl_UnderbedOrBed.stl)
 
 We recommend printing all parts with standard Voron style settings:
 
@@ -57,7 +57,7 @@ Coming Soon!
 ## Kit Parts
 This is what the box will look like when you receive it.  
 
-<img src="https://github.com/user-attachments/assets/db425790-5faf-40ce-aba2-c7495f1c9352" width="600"/> 
+<img src="Images/1" width="600"/> 
 
 This is all of the parts that will be inside the box, spread out for visibility.  
 
@@ -73,22 +73,22 @@ Coming Soon! In the meantime [see the BOM here](https://docs.google.com/spreadsh
 >There are several times during this build when a component will be secured with multiple screws. It is generally recommended to NOT fully tighten a screw before the rest have been started, to make sure parts line up correctly and don't crack. 
 ### Base
 Start by constructing the base. 
-- Place an **M3 Nut** into the hole indicated by the arrow in [*Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Side-B.stl)
-<img src="https://github.com/user-attachments/assets/f66063c8-3008-409c-8f27-009faf8ccdbe" width="600"/>
+- Place an **M3 Nut** into the hole indicated by the arrow in [*Side-B*](Printed%20Parts/Frame/BBProV25fl_Side-B.stl)
+<img src="Images/3" width="600"/>
 
-- Join the two sides together and place one **M3x20 screw** into the indicated hole in [*Side-A*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Side-A.stl) and tighten. 
-<img src="https://github.com/user-attachments/assets/60e73aca-53a8-43ac-a976-e8c8e7b76029" width="600"/>
+- Join the two sides together and place one **M3x20 screw** into the indicated hole in [*Side-A*](Printed%20Parts/Frame/BBProV25fl_Side-A.stl) and tighten. 
+<img src="Images/4" width="600"/>
 
 The base should now look like this.
 
-<img src="https://github.com/user-attachments/assets/678ede30-ba2e-42d9-becf-548105bb3d0a" width="600"/>
+<img src="Images/5" width="600"/>
 
 ### Power Switch and Jack
 Next install the **power jack** and **switch**. 
 
-<img src="https://github.com/user-attachments/assets/eab798bf-1eee-4daf-8fb8-a4f408d694df" width="400"/>
+<img src="Images/6" width="400"/>
 
-- There are two circular holes next to each other on [*Side-B*](https://github.com/Plants-X-Tech/BabyBelt-Pro-V2-Beta/blob/main/Printed%20Parts/Frame/BBProV25fl_Side-B.stl) of the printer. 
+- There are two circular holes next to each other on [*Side-B*](Printed%20Parts/Frame/BBProV25fl_Side-B.stl) of the printer. 
 - The black rubber cover for the power jack is optional
 - Secure the power jack with the supplied nut
 - The power switch will locks into place once pushed in
