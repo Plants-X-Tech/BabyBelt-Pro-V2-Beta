@@ -57,11 +57,11 @@ Coming Soon!
 ## Kit Parts
 This is what the box will look like when you receive it.  
 
-<img src="Images/1" width="600"/> 
+<img src="Images/1.jpg" width="600"/> 
 
 This is all of the parts that will be inside the box, spread out for visibility.  
 
-![Baby Belt Kit Parts](https://github.com/user-attachments/assets/4962c9a2-cb96-40d1-8257-9bf0a76a4f9a)
+![Baby Belt Kit Parts](Images/2.jpg)
 
 
 ### Part List
@@ -76,95 +76,95 @@ Coming Soon! In the meantime [see the BOM here](https://docs.google.com/spreadsh
 
 Start by constructing the base. 
 - Place an **M3 Nut** into the hole indicated by the arrow in [*Side-B*](Printed%20Parts/Frame/BBProV25fl_Side-B.stl)
-<img src="Images/3" width="600"/>
+<img src="Images/3.jpg" width="600"/>
 
 - Join the two sides together and place one **M3x20 screw** into the indicated hole in [*Side-A*](Printed%20Parts/Frame/BBProV25fl_Side-A.stl) and tighten. 
-<img src="Images/4" width="600"/>
+<img src="Images/4.jpg" width="600"/>
 
 The base should now look like this.
 
-<img src="Images/5" width="600"/>
+<img src="Images/5.jpg" width="600"/>
 
 ### Power Switch and Jack
 > Who's Jack? I don't know any Jack
 
 Next install the **power jack** and **switch**. 
 
-<img src="Images/6" width="400"/>
+<img src="Images/6.jpg" width="400"/>
 
 - There are two circular holes next to each other on [*Side-B*](Printed%20Parts/Frame/BBProV25fl_Side-B.stl) of the printer. 
 - The black rubber cover for the power jack is optional
 - Secure the power jack with the supplied nut
 - The power switch will locks into place once pushed in
   
-<img src="Images/7" width="400"/>
+<img src="Images/7.jpg" width="400"/>
 
 Here is what it should look like from the other side. 
 
-<img src="Images/8" width="400"/>
+<img src="Images/8.jpg" width="400"/>
 
 - Wire the two components as such
 - Wrap in electrical tape or use heat-shrink tubing (not supplied) to insulate the connections and avoid accidental shorting
 - We opted to solder the wires to the connectors for this build
 
-<img src="Images/9" width="400"/>
+<img src="Images/9.jpg" width="400"/>
 
 ### Board
 > All a'board!
 
 - Install the SKR board by the power switch using 3, **M3x10mm**
 
-<img src="Images/10" width="500"/>
+<img src="Images/10.jpg" width="500"/>
 
 - Make sure the Micro-USB and MicroSD ports line up with the holes for them in the side panel
 
-<img src="Images/11" width="400"/>
+<img src="Images/11.jpg" width="400"/>
 
 - Connect the wires from the power switch & power jack to the SKR board as shown below
-<img src="Images/12" width="400"/>
+<img src="Images/12.jpg" width="400"/>
 
-<img src="Images/13" width="400"/>
+<img src="Images/13.jpg" width="400"/>
 
 ### Screen
 > AAAAAAAAAAAHHHHHHHHH, oh sorry I thought you said scream
 
 Next we will install the screen.
 
-<img src="Images/14" width="500"/>
+<img src="Images/14.jpg" width="500"/>
 
 - Use 4, **M3x10mm** to connect the screen to the [*Screenmount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
-<img src="Images/15" width="500"/>
+<img src="Images/15.jpg" width="500"/>
 
 Here is what it should look like. 
 
-<img src="Images/16" width="500"/>
+<img src="Images/16.jpg" width="500"/>
 
 - Attach the knob by pushing it onto the silver dial beneath the screen
 
-<img src="Images/17" width="500"/>
+<img src="Images/17.jpg" width="500"/>
 
-<img src="Images/18" width="500"/>
+<img src="Images/18.jpg" width="500"/>
 
 - Plug the wire into the port labeled RS232 on the back of the screen using the black plastic connector that combines all the wires into one
 
-<img src="Images/19" width="300"/>
+<img src="Images/19.jpg" width="300"/>
 
-<img src="Images/20" width="300"/>
+<img src="Images/20.jpg" width="300"/>
 
 - Attach the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl) to the frame by inserting one **M3 Nut** into the hole on the bottom of the frame, next to where it slots into the base 
 
-<img src="Images/21" width="500"/>
+<img src="Images/21.jpg" width="500"/>
 
 - Insert one **M3x20mm** into the hole on the side of the frame and use it to secure the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
-<img src="Images/22" width="500"/>
+<img src="Images/22.jpg" width="500"/>
 
 Next use 2, **M3x10mm screws** and 2, **M3 Nuts** to attach the screen mount with the two holes in the top. 
 
-<img src="Images/23" width="500"/>
+<img src="Images/23.jpg" width="500"/>
 
-<img src="Images/24" width="500"/>
+<img src="Images/24.jpg" width="500"/>
 
 Tada! You have installed the screen!
 
@@ -174,15 +174,15 @@ Tada! You have installed the screen!
 >[!NOTE]
 > Make sure the gear fits properly with the rest of the gears in the extruder
 
-<img src="Images/25" width="300"/>
+<img src="Images/25.jpg" width="300"/>
 
 - Line up the motor with the mounting holes in the side of the frame
 
-<img src="https://github.com/user-attachments/assets/bd6d13f7-7065-4890-9354-b8aff10cd5e3" width="300"/>
+<img src="Images/26.jpg" width="300"/>
 
 - Attach the extruder to the outside of the frame with 4, **M3x10mm** screws
 
-<img src="https://github.com/user-attachments/assets/f627ea61-01b5-446b-9ed1-e5c02fc67d36" width="300"/>
+<img src="Images/27.jpg" width="300"/>
 
 ### Belt Tensioner
 > Consider loosening or removing after big holiday meals
@@ -191,31 +191,31 @@ Next we will build and install the belt tensioners.
 >[!NOTE]
 >There are two of these, so do each step twice.
 
-<img src="https://github.com/user-attachments/assets/c6457005-1cc5-4994-9dfa-080abeef1ef4" width="500"/>
+<img src="Images/28.jpg" width="500"/>
 
 - Fit a **M8 Nut** into [*PrintBelt_Pusher-A*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-A.stl)/[*PrintBelt_Pusher-B*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Pusher-B.stl)
 - Secure it with a **M8x70mm** Screw 
 
-<img src="https://github.com/user-attachments/assets/df1fb383-9402-4468-b976-6a9a1a05ac0a" width="300"/>
-<img src="https://github.com/user-attachments/assets/92e64ce2-4803-4124-9279-d7a819573305" width="500"/>
+<img src="Images/29.jpg" width="300"/>
+<img src="Images/30.jpg" width="500"/>
 
 - Fit another **M8 Nut** into the [*PrintBelt_Nut*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Nut%5Bx2%5D.stl) and line up with the hole on the [*PrintBelt_Frame-A*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-A.stl)/[*PrintBelt_Frame-B*](Printed%20Parts/PrintBelt/%5Ba%5D_BBProV25fl_PrintBelt_Frame-B.stl).
 
-<img src="https://github.com/user-attachments/assets/6e03702d-3aa5-464d-9c64-d415d65d8d85" width="500"/>
-<img src="https://github.com/user-attachments/assets/c240b288-dc5a-4636-8a0b-98f97797228d" width="400"/>
+<img src="Images/31.jpg" width="500"/>
+<img src="Images/32.jpg" width="400"/>
 
 Congratulations! You have built your tensionsers! They should look like this.
 
-<img src="https://github.com/user-attachments/assets/e39cf16a-80e4-4c52-b760-763699a63cf9" width="500"/>
+<img src="Images/33.jpg" width="500"/>
 
 - There are spots for the tensioners to fit on either side of the base. 
 
-<img src="https://github.com/user-attachments/assets/6782f3f2-decd-4a22-8f90-4d772b28c937" width="500"/>
+<img src="Images/34.jpg" width="500"/>
 
 - Use a **M3x20mm screw** to install both of the tensioners with the curved portion facing downward. 
 
-<img src="https://github.com/user-attachments/assets/d7f2de77-f25e-4956-82bd-a4fd07d89f15" width="500"/>
-<img src="https://github.com/user-attachments/assets/ed9512a5-8de4-4748-b3db-ba6e1fe0bee2" width="500"/>
+<img src="Images/35.jpg" width="500"/>
+<img src="Images/36.jpg" width="500"/>
 
 ### Rollers
 > Not the kind your grandma used to wear
@@ -224,15 +224,15 @@ Congratulations! You have built your tensionsers! They should look like this.
 - We recommend 2 wraps, with the 2nd one helping to hold the first in place 
 - Place a **M8 Nut** into the side slot and then inserting a **M8x70 Hex Screw** with a **608ZZ bearing** fully into the [*roller*](Printed%20Parts/ZBeltDrive/%5Ba%2Cs%5D_BBProV25fl_Roller%5Bx2%5D.stl)
 
-<img src="https://github.com/user-attachments/assets/9e3aadef-e4c9-4dc8-8644-2361f7116dfd" width="600"/>
-<img src="https://github.com/user-attachments/assets/17879f8c-5dbe-4347-8bf7-3feb78fd261c" width="600"/>
-<img src="https://github.com/user-attachments/assets/fc152093-dc8d-498b-9b91-96f2069aff33" width="600"/>
-<img src="https://github.com/user-attachments/assets/c8a36d71-9002-4c6f-bf11-f0d818ad1f3c" width="600"/>
+<img src="Images/37.jpg" width="600"/>
+<img src="Images/38.jpg" width="600"/>
+<img src="Images/39.jpg" width="600"/>
+<img src="Images/40.jpg" width="600"/>
 
 - On one of the rollers, install the [*Roller_ZGear*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) on the screw, before the bearing
-<img src="https://github.com/user-attachments/assets/afde2928-e1e8-4733-8c04-ffd2baae0da5" width="600"/>
-<img src="https://github.com/user-attachments/assets/e4ae22e8-4ee6-4781-9b66-eb6a80ddd77b" width="600"/>
-<img src="https://github.com/user-attachments/assets/6513f526-5d7e-4cb6-b9b4-1e5cb766752e" width="600"/>
+<img src="Images/41.jpg" width="600"/>
+<img src="Images/42.jpg" width="600"/>
+<img src="Images/43.jpg" width="600"/>
 
 ### Print Belt
 > Personally I prefer leopard
@@ -241,44 +241,44 @@ Follow the guide below to make the printbelt. <br>
 https://docs.google.com/document/d/13pu9LH_nKmDJY-V2nZXMY8CHur7INB6-9V5sKlAuCuE/edit?usp=sharing
 
 ### Z Motor
-> OOOOHHHH you mean like the axis
+> Which one? OOOOHHHH you mean like the axis
 
-<img src="https://github.com/user-attachments/assets/0b40892e-217d-4f52-80b4-7c3ce20613d7" width="500"/>
+<img src="Images/44.jpg" width="500"/>
 
-- Attach the Z motor to the fram using 4, **M3x10mm screws** 
+- Attach the Z motor to the frame using 4, **M3x10mm screws** 
 
-<img src="https://github.com/user-attachments/assets/3fb7976c-f58f-4e95-9401-5e7e916cd272" width="500"/>
+<img src="Images/45.jpg" width="500"/>
 
 - Make sure the wire port on the motor is facing towards the screen 
 
-<img src="https://github.com/user-attachments/assets/7877d8de-6ce7-4902-9283-c2a2d269ba93" width="500"/>
+<img src="Images/46.jpg" width="500"/>
 
 - Install the [*Nema 17_Z Gear*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Nema17_ZGear.stl) onto the motor and then check to make sure it lines up with the gear on the [*Roller_ZGear*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_Roller_ZGear.stl) we installed on one of the rollers earlier
 
-<img src="https://github.com/user-attachments/assets/5c964e1b-c2df-4af8-b923-84f7bea368fb" width="250"/>
-<img src="https://github.com/user-attachments/assets/d71a185e-4428-4ba6-96d3-8a3b8c4009c8" width="500"/>
+<img src="Images/47.jpg" width="250"/>
+<img src="Images/48.jpg" width="500"/>
 
 Improperly fitting vs Properly fitting gears
 
-<img src="https://github.com/user-attachments/assets/4cbc0b8f-7f7b-4984-b562-efb14ed604ee" width="450"/>
-<img src="https://github.com/user-attachments/assets/172ade7e-f9cf-4630-b455-d86e6c6c31c1" width="500"/>
+<img src="Images/49.jpg" width="450"/>
+<img src="Images/50.jpg" width="500"/>
 
 - Place a **M3 Nut** into the slot on the side of the frame right above the motor. Repeat on the other side
 
-<img src="https://github.com/user-attachments/assets/230711e7-efb6-4479-b41e-3a5bc8a730e7" width="400"/>
-<img src="https://github.com/user-attachments/assets/51d66fe4-46e7-4d7e-bfda-5b9f368a5c47" width="500"/>
+<img src="Images/51.jpg" width="400"/>
+<img src="Images/52.jpg" width="500"/>
 
 - Use a **M3 Nut** and **M3x20mm** screw to attach the [*scraper*](Printed%20Parts/Frame/BBProV25fl_Scraper.stl) in the same manner the screen mount was attached previously
 - Use a **M3x10mm** to attach the scraper below the roller, securing into the nuts we previously inserted 
 
-<img src="https://github.com/user-attachments/assets/a0f8708d-9e75-4c7e-93d0-6078a2efaa76" width="500"/>
-<img src="https://github.com/user-attachments/assets/050e85e9-5f11-4d8c-854d-8ba158d446f3" width="450"/>
+<img src="Images/53.jpg" width="500"/>
+<img src="Images/54.jpg" width="450"/>
 
 >[!NOTE]
 >To complete this guide, we decided to leave the belt off during this step to make it easier to get clear images of the build as it progressed. Even once the printer is built, removing the scraper and replacing the belt is quick and easy. At this point, we suggest you install the Z roller with the belt so it looks like the picture on the right. 
 
-<img src="https://github.com/user-attachments/assets/0c7a9985-c82d-4b31-ace3-f78fa4ebd704" width="500"/>
-<img src="https://github.com/user-attachments/assets/2bb28c96-0a7e-42c5-a27f-0e4e4b368a42" width="375"/>
+<img src="Images/55.jpg" width="500"/>
+<img src="Images/56.jpg" width="375"/>
 
 ### Y Stop
 > Because we said so
@@ -287,8 +287,8 @@ Improperly fitting vs Properly fitting gears
 - Make sure your orientation matches the following pictures
 - Keep the [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  in place with a **M3x20mm screw**
 
-<img src="https://github.com/user-attachments/assets/15919510-2bae-485b-913d-e8298204de60" width="400"/>
-<img src="https://github.com/user-attachments/assets/7af55c58-0bbf-41a4-b603-e724bc4c4f4e" width="400"/>
+<img src="Images/57.jpg" width="400"/>
+<img src="Images/58.jpg" width="400"/>
 
 >[!CAUTION]
 >Make sure the configuration of your [*TensionIdlerHolder*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionIdlerHolder.stl)  and [*TensionBody*](Printed%20Parts/Gantry/Y/%5Ba%5D_BBProV25fl_Y_TensionBody.stl) are correct before proceeding.
@@ -299,15 +299,15 @@ Improperly fitting vs Properly fitting gears
 Attach the [*YCar_Bam_Fan*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Fan.stl) to the [*YCar_Bam_BeltHolder*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_BeltHolder.stl) by inserting 2, **M3x10 screws** into the holes indicated in the first image, and through the whole in the second image
 - Secure with **M3 Nuts** 
 
-<img src="https://github.com/user-attachments/assets/983b2477-9dfa-4432-8ae9-50a352528a17" width="400"/>
-<img src="https://github.com/user-attachments/assets/0addedb7-bd45-4dc7-86bf-5a80da0c1dbf" width="300"/>
+<img src="Images/59.jpg" width="400"/>
+<img src="Images/60.jpg" width="300"/>
 
 Your part should now look like this. 
 
-<img src="https://github.com/user-attachments/assets/e161cee9-e5ef-45d4-b6f4-c7a81139aa65" width="400"/>
+<img src="Images/61.jpg" width="400"/>
 
 - Orient the fan so that the air flow will move towards the air duct on the fan mount, then secure where indicated with zip ties 
-<img src="https://github.com/user-attachments/assets/0d54245d-0a52-4fe1-b681-3d7750e7941d" width="400"/>
+<img src="Images/62.jpg" width="400"/>
 
 - Use a zip tie to secure the wires to the side of the carriage 
 
@@ -316,93 +316,96 @@ Your part should now look like this.
 
 - Insert a **M3 Nut** into this slot on the [*YCar_Bam_Side-A*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-A.stl)
 
-<img src="https://github.com/user-attachments/assets/8389007d-f2ee-4525-b71f-9ce973659500" width="400"/>
+>[!CAUTION]
+> We highly recommend lubricating **all** the linear rail bearings (visible in the photo below) using something like Mobil EP1 or EP2 grease prior to installation. Nero3D has a [great guide providing explanations and how-tos for this](https://youtu.be/UYvhYjkBFTY?si=frlAKNLAvElEVHFv) 
+
+<img src="Images/63.jpg" width="400"/>
 
 - Attach the carriage to the **linear rail** using 4, **M2x6mm screws**
 
-<img src="https://github.com/user-attachments/assets/40ef57ec-a302-498a-b38c-03a722d43448" width="400"/>
+<img src="Images/64.jpg" width="400"/>
 
 - Insert a **M3 Nut** into the still exposed slot on the [*YCar_Bam_Side-A*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-A.stl)
 
-<img src="https://github.com/user-attachments/assets/14f45fcf-075b-46d2-b59d-07b6f31b1015" width="400"/>
-<img src="https://github.com/user-attachments/assets/ca8fff81-89f2-453d-a82b-0f0ca9a63a19" width="400"/>
+<img src="Images/65.jpg" width="400"/>
+<img src="Images/66.jpg" width="400"/>
 
 - It should line up with the hotend fan like so:
 
-<img src="https://github.com/user-attachments/assets/4ad4f308-e609-4841-a616-053420db988f" width="400"/>
+<img src="Images/67.jpg" width="400"/>
 
 - Insert **M3 Nuts** into the slots indicated on the [*YCar_Bam_Side-B*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
 
-<img src="https://github.com/user-attachments/assets/690f6a91-35cc-4c6f-8a33-c25ede306f81" width="400"/>
-<img src="https://github.com/user-attachments/assets/885f7aad-7a41-429c-9c85-67f06a6d4d6a" width="400"/> 
+<img src="Images/68.jpg" width="400"/>
+<img src="Images/69.jpg" width="400"/> 
 
 Next we will install the hotend to the [*YCar_Bam_Side-B*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
 
-<img src="https://github.com/user-attachments/assets/043df1a4-8de6-4cf5-bd9d-c47bba7ad218" width="400"/>
+<img src="Images/70.jpg" width="400"/>
 
 - Use a **M3x20mm screw** and a **M3 Nut** to attach the hotend to the [*YCar_Bam_Side-B*](Printed%20Parts/Gantry/Carriage/%5Ba%5D_BBProV25fl_YCar_Bam_Side-B.stl)
 through the hole shown at the top
 
-<img src="https://github.com/user-attachments/assets/9245b2fb-d5c7-429b-b5fb-7d604090764f" width="400"/>
-<img src="https://github.com/user-attachments/assets/125916a8-e388-4fca-99e6-374df99b4a23" width="400"/>
+<img src="Images/71.jpg" width="400"/>
+<img src="Images/72.jpg" width="400"/>
 
 - Make sure the screw goes through the correct hole on the hotend
 
-<img src="https://github.com/user-attachments/assets/566c6d64-adca-411f-997b-366c087e6e37" width="400"/>
+<img src="Images/73.jpg" width="400"/>
 
 - Insert **M3 Nuts** into the holes pictured 
 
-<img src="https://github.com/user-attachments/assets/a499a075-7d23-4e6b-a5f2-79df09ab671f" width="400"/> 
-<img src="https://github.com/user-attachments/assets/f126673f-1acb-4d0e-b1c3-26727f3c22a0" width="400"/> 
-<img src="https://github.com/user-attachments/assets/ce38e393-e8d7-470e-b894-dedab590ae9e" width="400"/>
+<img src="Images/74.jpg" width="400"/> 
+<img src="Images/75.jpg" width="400"/> 
+<img src="Images/76.jpg" width="400"/>
 
 - Attach the hotend fan assembly to the rail carriage (this is easier to do one half at a time)
 - Use **M3x8mm screws** for the top holes and **M3x10mm screws** for the holes nearest the nozzle. 
 
-<img src="https://github.com/user-attachments/assets/618327e2-cfea-43cf-97ff-cf14b5508c32" width="400"/> 
-<img src="https://github.com/user-attachments/assets/2151d359-61cd-47fa-96fa-2de35886458e" width="400"/> 
-<img src="https://github.com/user-attachments/assets/fc9a0cba-6c38-422d-a52a-6fae75be56b3" width="400"/> 
-<img src="https://github.com/user-attachments/assets/9e267cb4-9877-40e7-ba8b-b59a1467b9f7" width="400"/>
+<img src="Images/77.jpg" width="400"/> 
+<img src="Images/78.jpg" width="400"/> 
+<img src="Images/79.jpg" width="400"/> 
+<img src="Images/80.jpg" width="400"/>
 
 ### Hotend
-> Again talking about the printer not yours
+> Again talking about the printer, not yours
 
 Next we will install the electrical components to the hotend. 
 
-<img src="https://github.com/user-attachments/assets/809f991b-b64a-46eb-bc87-5248a2eb747f" width="600"/>
+<img src="Images/81.jpg" width="600"/>
 
 - Insert the **thermistor** into the small hole in the block right above the nozzle
 
-<img src="https://github.com/user-attachments/assets/ff5475ce-ca49-4b11-a42a-1a9198113b92" width="400"/>
+<img src="Images/82.jpg" width="400"/>
 
 The thermistor
 
-<img src="https://github.com/user-attachments/assets/25568316-c5b6-4865-913d-e67e055dda5c" width="200"/>
+<img src="Images/83.jpg" width="200"/>
 
 - Run the wire through the channel built into the black **heat break**. 
 
-<img src="https://github.com/user-attachments/assets/db105d7f-f45e-4ee2-8ff4-ba87989831df" width="600"/>
+<img src="Images/84.jpg" width="600"/>
 
 - Place the **heater cartridge** on the front of the block and run the wires through the same channel as the thermistor
 - Secure it and the thermistor in place with the **metal clip** 
 
-<img src="https://github.com/user-attachments/assets/816ab2e8-2e75-48d0-932d-365b61ea6904" width="600"/>
+<img src="Images/85.jpg" width="600"/>
 
 ### Parts Fan
 > Not to be confused with a whole fan. I mean it is a whole fan but it's for cooling parts.
 
 Time to install the **part cooling fan** to the front of the **hotend heatbreak**. 
 
-<img src="https://github.com/user-attachments/assets/079fcc9f-1a05-4524-a414-5f646b13f125" width="600"/>
+<img src="Images/86.jpg" width="600"/>
 
 - Insert **M3 nuts** into these slots of the current assembly 
 
-<img src="https://github.com/user-attachments/assets/31a8047c-203f-441c-9252-5e402a07d6f6" width="400"/>
+<img src="Images/87.jpg" width="400"/>
 
 - Using 2, **M3x20mm screws** on top and 2, **M2.5x12mm** screws on bottom to secure the hotend fan
 
-<img src="https://github.com/user-attachments/assets/70b28acb-eb0b-44fb-b51b-6c837fdbb7d0" width="400"/>
-<img src="https://github.com/user-attachments/assets/f6b1fe6c-5bd6-4c34-ac04-bad08b512f06" width="384"/>
+<img src="Images/88.jpg" width="400"/>
+<img src="Images/89.jpg" width="384"/>
 
 ### X Gantry
 > The breakup was hard on everyone
@@ -417,6 +420,9 @@ Time to install the **part cooling fan** to the front of the **hotend heatbreak*
 <img src="https://github.com/user-attachments/assets/ce6b942d-3be2-42fb-a343-3d55f489169e" width="600"/>
 <img src="https://github.com/user-attachments/assets/af106214-e4c4-4e9e-b750-12450851296f" width="600"/>
 
+>[!CAUTION]
+> Last chance to lubricate the remaining linear rails!
+
 Here's what it should look like with the rails attached. 
 
 <img src="https://github.com/user-attachments/assets/c467dfec-9481-4607-829e-a9c057e60abd" width="600"/>
@@ -424,21 +430,25 @@ Here's what it should look like with the rails attached.
 >[!Note]
 >Unfortunately, we missed taking photos installing the the [*X_RailMount_Side-A*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_RailMount_Side-A.stl) and [*X_RailMount_Side-B*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_RailMount_Side-B.stl)
 >Attach these printed parts using 4, **M2x8mm screws** and 4, **M2 Nuts**
->
+
+<img src="Image/95.png" width="600"/>
+
+<img src="Image/96.png" width="600"/>
+
 
 ### Combining Axes
 > FUSION HA!
 
-<img src="https://github.com/user-attachments/assets/473fdab5-2522-43b9-8af5-a2f951ea1a42" width="600"/>
+<img src="Images/97.jpg" width="600"/>
 
 - Attach the linear rail of the Y axis to the X gantry as shown below, using 2, **M2x8mm screws** and 2, **M2 Nuts**
 
-<img src="https://github.com/user-attachments/assets/21deac05-1ee3-4488-a921-4ea1e36e1021" width="600"/>
+<img src="Images/98.jpg" width="600"/>
 
 - Attach the [*LinearRailReplacement*](Printed%20Parts/Gantry/Y/%5Bany%5D_BBProV25fl_LinearRailReplacment.stl) on the other side of the Y axis in the same way 
 
-<img src="https://github.com/user-attachments/assets/2a9f8729-0ef7-4b5c-a443-c390910b8b3d" width="600"/>
-<img src="https://github.com/user-attachments/assets/acf06334-0604-49fc-b51e-eb4bf63ff3b6" width="600"/>
+<img src="Images/99.jpg" width="600"/>
+<img src="Images/100.jpg" width="600"/>
 
 ### GT2 Belts
 > Gran Turismo 2 was the best one, not sure why people keep bringing up belts tho...
@@ -448,33 +458,32 @@ Here's what it should look like with the rails attached.
  
 - Run the belt through the Y stop, teeth facing toward the idler, and secure the first 3 teeth into the Y gantry
 
-<img src="https://github.com/user-attachments/assets/ca81bfab-3e5d-486d-b96a-9b9ca5ce695f" width="600"/>
-<img src="https://github.com/user-attachments/assets/3ed59ce1-2239-4a49-995e-2eba90a14c45" width="600"/>
-<img src="https://github.com/user-attachments/assets/9fc91996-f9ca-4c6b-aebe-649cc2ac882f" width="280"/>
+<img src="Images/101.jpg" width="600"/>
+<img src="Images/102.jpg" width="600"/>
+<img src="Images/103.jpg" width="280"/>
 
 Next install the **Y motor** onto the X gantry. 
 
-<img src="https://github.com/user-attachments/assets/6c5f6aa5-57dd-4189-9924-8caff77a258f" width="600"/>
+<img src="Images/104.jpg" width="600"/>
 
 - Install the **pulley** onto the motor shaft, making sure the **grub screw** is on the flat face of the shaft
 
-<img src="https://github.com/user-attachments/assets/579fe1b6-f6c7-4411-b6df-45b265518b7c" width="220"/>
-<img src="https://github.com/user-attachments/assets/071f58c6-990e-44a0-ba01-6ac72f8bc03d" width="400"/>
+<img src="Images/105.jpg" width="220"/>
+<img src="Images/106.jpg" width="400"/>
 
 - Install the motor onto the X gantry in the position that is closest to the hotend using 4, **M2.5x8mm** screws
 
-<img src="https://github.com/user-attachments/assets/e293f010-29ba-4cc2-8273-37c5731d21a3" width="600"/>
-<img src="https://github.com/user-attachments/assets/e0f9cdb4-9569-489d-b069-4c3259ad0b1a" width="600"/>
+<img src="Images/107.jpg" width="600"/>
+<img src="Images/108.jpg" width="600"/>
 
-- Rrun the belt through the X gantry and around the pulley
+- Run the belt through the X gantry and around the pulley
 
-<img src="https://github.com/user-attachments/assets/091e5ef2-aa74-447c-a5ac-95f2abefe222" width="600"/>
+<img src="Images/109.jpg" width="600"/>
 
 - Cut the belt so that it fits into the remaining teeth and secure in place with a zip tie
 
-<img src="https://github.com/user-attachments/assets/a53127ae-119e-4037-a419-d7ed17b72d23" width="400"/>
-<img src="https://github.com/user-attachments/assets/28f8cf35-d81d-4924-b71d-981dca9f7f46" width="300"/>
-
+<img src="Images/110.jpg" width="400"/>
+<img src="Images/111.jpg" width="300"/>
 
 >[!Caution]
 >The printed parts shown for the X axis belt attachment steps are not the most current up to date versions, we will update the photos when we can. The main difference is that instead of mounting the GT2 belt directly to the X_RailMount_Side-A & X_RailMount_Side-B like in our instructions below you will attach the belt using the [*X_PivotArm*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotArm%5Bx2%5D.stl) and [*X_Pivot Clamp*](Printed%20Parts/Gantry/X/%5Ba%5D_BBProV25fl_X_PivotClamp%5Bx2%5D.stl)
@@ -482,16 +491,16 @@ Next install the **Y motor** onto the X gantry.
 
 - Run the belt for the X Axis as seen below, going through the lower hole on the right
 
-<img src="https://github.com/user-attachments/assets/184d2fd3-e540-48bd-bcb0-10c5ce702727" width="600"/>
+<img src="Images/112.jpg" width="600"/>
 
 - Loop the belt around the outside, through the second hole, and then interlock the teeth and pull till it is firmly locked into the first hole (this can be a bit tricky and may take several tries to get it just right) 
 
-<img src="https://github.com/user-attachments/assets/5b1eb4da-ea42-4e53-a3b7-333254c69d3e" width="400"/>
+<img src="Images/113.jpg" width="400"/>
 
 - Push the belt to make space for the pulley on the X axis motor (prepared identically to the Y axis motor)
 
-<img src="https://github.com/user-attachments/assets/7cc1e6fb-92ca-4021-b8f4-b606b99887a3" width="600"/>
-<img src="https://github.com/user-attachments/assets/ce775bd0-d561-49ab-b603-137e55a0fcb3" width="600"/>
+<img src="Images/114.jpg" width="600"/>
+<img src="Images/115.jpg" width="600"/>
 
 - Attach the X belt tensioner on the left side of the assembly using a **M3x20 screw** 
 
