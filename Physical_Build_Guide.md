@@ -57,11 +57,11 @@ Coming Soon!
 ## Kit Parts
 This is what the box will look like when you receive it.  
 
-<img src="Images/1" width="600"/> 
+<img src="Images/1.jpg" width="600"/> 
 
 This is all of the parts that will be inside the box, spread out for visibility.  
 
-![Baby Belt Kit Parts](https://github.com/user-attachments/assets/4962c9a2-cb96-40d1-8257-9bf0a76a4f9a)
+![Baby Belt Kit Parts](Images/2.jpg)
 
 
 ### Part List
@@ -76,95 +76,95 @@ Coming Soon! In the meantime [see the BOM here](https://docs.google.com/spreadsh
 
 Start by constructing the base. 
 - Place an **M3 Nut** into the hole indicated by the arrow in [*Side-B*](Printed%20Parts/Frame/BBProV25fl_Side-B.stl)
-<img src="Images/3" width="600"/>
+<img src="Images/3.jpg" width="600"/>
 
 - Join the two sides together and place one **M3x20 screw** into the indicated hole in [*Side-A*](Printed%20Parts/Frame/BBProV25fl_Side-A.stl) and tighten. 
-<img src="Images/4" width="600"/>
+<img src="Images/4.jpg" width="600"/>
 
 The base should now look like this.
 
-<img src="Images/5" width="600"/>
+<img src="Images/5.jpg" width="600"/>
 
 ### Power Switch and Jack
 > Who's Jack? I don't know any Jack
 
 Next install the **power jack** and **switch**. 
 
-<img src="Images/6" width="400"/>
+<img src="Images/6.jpg" width="400"/>
 
 - There are two circular holes next to each other on [*Side-B*](Printed%20Parts/Frame/BBProV25fl_Side-B.stl) of the printer. 
 - The black rubber cover for the power jack is optional
 - Secure the power jack with the supplied nut
 - The power switch will locks into place once pushed in
   
-<img src="Images/7" width="400"/>
+<img src="Images/7.jpg" width="400"/>
 
 Here is what it should look like from the other side. 
 
-<img src="Images/8" width="400"/>
+<img src="Images/8.jpg" width="400"/>
 
 - Wire the two components as such
 - Wrap in electrical tape or use heat-shrink tubing (not supplied) to insulate the connections and avoid accidental shorting
 - We opted to solder the wires to the connectors for this build
 
-<img src="Images/9" width="400"/>
+<img src="Images/9.jpg" width="400"/>
 
 ### Board
 > All a'board!
 
 - Install the SKR board by the power switch using 3, **M3x10mm**
 
-<img src="Images/10" width="500"/>
+<img src="Images/10.jpg" width="500"/>
 
 - Make sure the Micro-USB and MicroSD ports line up with the holes for them in the side panel
 
-<img src="Images/11" width="400"/>
+<img src="Images/11.jpg" width="400"/>
 
 - Connect the wires from the power switch & power jack to the SKR board as shown below
-<img src="Images/12" width="400"/>
+<img src="Images/12.jpg" width="400"/>
 
-<img src="Images/13" width="400"/>
+<img src="Images/13.jpg" width="400"/>
 
 ### Screen
 > AAAAAAAAAAAHHHHHHHHH, oh sorry I thought you said scream
 
 Next we will install the screen.
 
-<img src="Images/14" width="500"/>
+<img src="Images/14.jpg" width="500"/>
 
 - Use 4, **M3x10mm** to connect the screen to the [*Screenmount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
-<img src="Images/15" width="500"/>
+<img src="Images/15.jpg" width="500"/>
 
 Here is what it should look like. 
 
-<img src="Images/16" width="500"/>
+<img src="Images/16.jpg" width="500"/>
 
 - Attach the knob by pushing it onto the silver dial beneath the screen
 
-<img src="Images/17" width="500"/>
+<img src="Images/17.jpg" width="500"/>
 
-<img src="Images/18" width="500"/>
+<img src="Images/18.jpg" width="500"/>
 
 - Plug the wire into the port labeled RS232 on the back of the screen using the black plastic connector that combines all the wires into one
 
-<img src="Images/19" width="300"/>
+<img src="Images/19.jpg" width="300"/>
 
-<img src="Images/20" width="300"/>
+<img src="Images/20.jpg" width="300"/>
 
 - Attach the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl) to the frame by inserting one **M3 Nut** into the hole on the bottom of the frame, next to where it slots into the base 
 
-<img src="Images/21" width="500"/>
+<img src="Images/21.jpg" width="500"/>
 
 - Insert one **M3x20mm** into the hole on the side of the frame and use it to secure the [*screen mount*](Printed%20Parts/Frame/%5Bs%5D_BBProV25fl_Screenmount.stl)
 
-<img src="Images/22" width="500"/>
+<img src="Images/22.jpg" width="500"/>
 
 Next use 2, **M3x10mm screws** and 2, **M3 Nuts** to attach the screen mount with the two holes in the top. 
 
-<img src="Images/23" width="500"/>
+<img src="Images/23.jpg" width="500"/>
 
-<img src="Images/24" width="500"/>
+<img src="Images/24.jpg" width="500"/>
 
 Tada! You have installed the screen!
 
@@ -174,7 +174,7 @@ Tada! You have installed the screen!
 >[!NOTE]
 > Make sure the gear fits properly with the rest of the gears in the extruder
 
-<img src="Images/25" width="300"/>
+<img src="Images/25.jpg" width="300"/>
 
 - Line up the motor with the mounting holes in the side of the frame
 
