@@ -53,7 +53,8 @@ The design inspiration for the printer built for this guide was to make a printe
 Coming Soon!
 
 >[!NOTE]
->If you are using a Revo-style Hot End and not the Bamboo nozzle that comes with the Fabreeko kit, then the gantry-carriage parts will be slightly different and can be found in the "Mods" folder. 
+>If you are using a Revo-style Hot End and not the Bamboo nozzle that comes with the Fabreeko kit, then the gantry-carriage parts will be slightly different and can be found in the "Mods" folder.
+
 ## Kit Parts
 This is what the box will look like when you receive it.  
 
@@ -438,6 +439,7 @@ Here's what it should look like with the rails attached.
 
 ### Combining Axes
 > FUSION HA!
+> <img src="Images/draong-ball-z-fusion.gif"/>
 
 <img src="Images/97.jpg" width="600"/>
 
@@ -504,38 +506,38 @@ Next install the **Y motor** onto the X gantry.
 
 - Attach the X belt tensioner on the left side of the assembly using a **M3x20 screw** 
 
-<img src="https://github.com/user-attachments/assets/386532a5-c28e-4e81-bea2-51252f9848a4" width="600"/>
+<img src="Images/116.jpg" width="600"/>
 
 - Run the belt through the bottom slot and then through the top slot and secure with a zip tie
 
-<img src="https://github.com/user-attachments/assets/7c3b5091-44cc-45f8-96d3-13e6a8b740d3" width="400"/>
-<img src="https://github.com/user-attachments/assets/1e283ef4-9fca-458f-991e-3b69365d3373" width="400"/>
+<img src="Images/117.jpg" width="400"/>
+<img src="Images/118.jpg" width="400"/>
 
 - Insert a **M3x10mm screw** and **M3 Nut** to the hole in the top of the tensioner. This can be used to adjust the belt tension as needed. 
 
-<img src="https://github.com/user-attachments/assets/a6945aa1-3e4d-4695-9ad6-9b68a0750fe7" width="400"/>
-<img src="https://github.com/user-attachments/assets/4dfd4188-40bb-49b2-b5ca-bff99d1595fa" width="380"/>
-<img src="https://github.com/user-attachments/assets/12b3c39f-a960-44a5-bc6e-b6b34ff3f06d" width="400"/>
+<img src="Images/119.jpg" width="400"/>
+<img src="Images/120.jpg" width="380"/>
+<img src="Images/121.jpg" width="400"/>
 
-### Hotbed
-> Something something pun about a bed and blankets making it warm...
+### Heated Bed
+> For those cold winter nights
 
-<img src="https://github.com/user-attachments/assets/68541709-a9e4-49b4-adad-854df8226e4b" width="600"/>
+<img src="Images/122.jpg" width="600"/>
 
 - Stick the **bed heater** onto the **aluminum bed** like so
   
 >[!CAUTION]
 >Make sure you stick the pad onto the correct side. There should be no indents around the holes for the screw heads. 
 
-<img src="https://github.com/user-attachments/assets/cbd421c4-3ead-4061-8cbd-e0d473481145" width="400"/>
+<img src="Images/123.jpg" width="400"/>
 
 - Attach the **aluminum bed** using 3, **M3x10mm** to the [*UnderbedOrBed*](Printed%20Parts/ZBeltDrive/%5BHT%5D_BBProV25fl_UnderbedOrBed.stl) using 3, **M3 Nuts** on each screw as spacers
 
-<img src="https://github.com/user-attachments/assets/591c3b34-babb-4eeb-850f-39108be2516c" width="400"/>
+<img src="Images/124.jpg" width="400"/>
 
 - The bed will fit into the base like this:
 
-<img src="https://github.com/user-attachments/assets/8c6ccaba-0652-40a8-a365-d0bc667e1c3d" width="400"/>
+<img src="Images/125.jpg" width="400"/>
 
 ### Wiring
 > It's electric, Boogie woogie, woogie! Well, not yet but soon^TM^.
@@ -544,7 +546,7 @@ Let's get those wires connected!
 
 >[!NOTE]
 >This hole located on the right of the screen holder is where all wires from the outside of the base should be routed through. This includes the X and Y motors, both fans, the thermistor, and heater. <br>
-><img src="https://github.com/user-attachments/assets/12361468-ed2c-4448-af0b-ff4cae994208" width="400"/>
+><img src="Images/126.jpg" width="400"/>
 
 >[!TIP]
 >Wire management can be difficult and can take some practice to get good at. The most important thing is making sure the wires are easily identifiable and are not in the way of any moving components. 
@@ -552,49 +554,49 @@ Let's get those wires connected!
 - Start by plugging in the motors
 - There are 5 (slots) on the side of the board closest to the screen 
 
-<img src="https://github.com/user-attachments/assets/44517b25-4dcd-4e2f-b78d-2425e41cd173" width="400"/>
+<img src="Images/127.jpg" width="400"/>
 
 - From left to right is the X motor, Y motor, Z motor, and Extruder. At this time you should also install the 3 red jumpers pictured in the bottom right
 
-<img src="https://github.com/user-attachments/assets/8eefe581-1154-454e-9599-c97d1fa577c8" width="400"/>
+<img src="Images/128.jpg" width="400"/>
 
 - Plug both fans in. ***NOTE:*** *The wires in our kit were a bit short and we had to extend them. This is now fixed in the kits so your wire colors likely will not match the photos.* The hotend fan is shown with blue and green wires, while the parts fan is shown with red and black 
 
-<img src="https://github.com/user-attachments/assets/5853aa3d-db09-489a-88de-4ab71fc61c9f" width="400"/>
+<img src="Images/129.jpg" width="400"/>
 
 - Install the heater cartridge wires into the screw terminal located right next to them (orientation is not important)
 
-<img src="https://github.com/user-attachments/assets/d5976f16-fded-4f93-94f4-ca0aa67c6ba7" width="400"/>
+<img src="Images/130.jpg" width="400"/>
 
 - Both thermistors are plugged in on the opposite side of the board. ***NOTE:*** *The wires in our kit were a bit short and we had to extend them. This is now fixed in the kits so your wire colors likely will not match the photos.* The hotend thermistor is shown with blue and green wires, while the bed thermistor has red and black. 
 
-<img src="https://github.com/user-attachments/assets/d822a788-b5ca-4527-b237-6f86a388fbf8" width="400"/>
+<img src="Images/131.jpg" width="400"/>
 
 - The bed heater wires can be installed in the screw terminal next to where we installed the hotend (orientation does not matter)
 
-<img src="https://github.com/user-attachments/assets/f50b4003-296f-44fe-8f27-cf78830ddc88" width="400"/>
+<img src="Images/132.jpg" width="400"/>
 
 - Plug the screen wires into the freestanding pins located above the jumpers 
 
-<img src="https://github.com/user-attachments/assets/2689e484-922c-4ec5-a81e-77556d32ac77" width="400"/>
+<img src="Images/133.jpg" width="400"/>
 
 ### Print Belt
 > The end of the road! I mean technically its a loop so there is no end
 
 Now that all the insides are done we can do final assembly of the belt. This is straightfoward, but can be a bit tricky to make everything fit right. If things aren't fitting right or moving smoothly DO NOT force anything, try sanding at any pain points and try again.
 
-<img src="https://github.com/user-attachments/assets/448e1352-1fc4-4751-bfb9-4a574493e3ce" width="600"/>
+<img src="Image/56.jpg" width="600"/>
 
 - Place the heatbed inside the belt, with the plastic prongs facing upwards and slot them into the frame
 
-<img src="https://github.com/user-attachments/assets/65515845-0a6a-4b5a-8303-31e7a3c4644e" width="600"/>
+<img src="Images/134.jpg" width="600"/>
 
 - Slide the other roller into the belt and maneuver it into the curved slots in the frame
 - Use the belt tensioners to get the belt tensioned just right
 
-<img src="https://github.com/user-attachments/assets/829bb469-5317-4144-abcf-f764c36e8209" width="600"/>
+<img src="Images/135.jpg" width="600"/>
 
 ### Finished Printer
 - Attach the bowden tube from the extruder to the hotend and you have finished the physical build of your printer!
 
-<img src="https://github.com/user-attachments/assets/de2d04fa-db18-4e3f-96c5-4b7619084896" width="600"/>
+<img src="Images/136.jpg" width="600"/>
